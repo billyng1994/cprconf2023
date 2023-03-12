@@ -32,71 +32,38 @@
 
 <body class="fontfamily">
 	<?php include "components/header.php" ?>
-
+	
 	<div class="container">
 		<!-- Main component for a primary marketing message or call to action -->
 		<div class="jumbotron">
-			<h4 class="title" style="color: #111177;"><b>About CPCECPR</b></h4>
-			<p style="text-align: justify;color: #000000;">With a strong commitment to informing and nurturing excellent
-				teachers, curriculum developers and programme leaders at
-				the higher education level in Hong Kong, the CPCE Centre for Pedagogic Research (CPCECPR), established in March
-				2021,
-				aspires to enhance the scholarship of teaching and learning and pedagogic research in the higher education
-				sector:
+			<h4 class="title" style="color: #111177;"><b>About this cofference</b></h4>
+			<br />
+			<p style="text-align: justify;color: #000000;">
+				This 2-day conference is approved and funded by the Inter-Institutional Development Scheme (IIDS) project. The IIDS project reference number is UGC/IIDS24/B02/22. The principal investigator of the IIDS project is Dr. Joseph LAU. The IIDS project title is “Building and Sustaining the Momentum of Cross-border Ecommerce for the Greater Bay Area”.
 			</p>
-			<ol>
-				<li style="margin-bottom: 7px;">To enhance the institution’s experience, ability, and status in performing
-					research work related to teaching excellence, learning, assessment, curriculum design, and educational
-					leadership.</li>
-				<li style="margin-bottom: 7px;">To acquire funding to support research activities, especially in improving the
-					education quality, pedagogical models
-					and methodologies within and across the disciplines, and in promoting equity in education.</li>
-				<li style="margin-bottom: 7px;">To provide professional services, including workshops, webinars, seminars, and
-					training programmes, to the education
-					and community sectors, with a view to initiating and sustaining dialogue about teaching excellence.</li>
-				<li style="margin-bottom: 7px;">To contribute new knowledge and insights to the academic and education sectors
-					by sharing research findings via
-					conferences, journals, and books.</li>
-				<li style="margin-bottom: 7px;">To underpin teaching with knowledge created from the Centre’s research and
-					development works and activities.</li>
-			</ol>
-			<br>
-			<h4 class="title" style="color: #111177;"><b>About the Conference</b></h4>
-			<p style="text-align: justify;color: #000000;">PolyU CPCE strives to offer quality tertiary education to students
-				and facilitate staff members’ active engagement in
-				scholarly activities which underpins teaching and learning excellence. Established in March 2021 as part of
-				PolyU CPCE,
-				CPCECPR promotes the scholarship of teaching and learning and pedagogic research in the field of higher
-				education.
-				This inaugural conference offers researchers and educators an exciting opportunity to engage in insightful
-				discussions
-				on ways to overcome pedagogical challenges and evolve the pedagogical use of technology in the post-pandemic
-				era.
-				Entitled <b>“Smart Education: Pedagogical Innovation and Learning Analytics”</b>, 
-				the Conference encompasses the following three themes: (1) Learning Analytics; (2) Educational Technologies and Innovation; and (3)
-				Technology-enhanced Professional Development.
+			<p style="text-align: justify;color: #000000;">
+				The emergence and impact of the COVID-19 pandemic have caused the stagnation of global economic development, but also, provided a major opportunity for international trade to advance its digital transformation for the rise of e-commerce sales. Indeed, social distancing has determined the growing tendency toward online consumption, and cross-border e-commerce, especially in the Greater Bay Area (GBA), has become an important way to connect manufacturing with global consumption. In response to this opportunity, there is an acute need to quickly adapt to new supply-demand relationships in the GBA, and thus, this proposal will have presenters who already have expertise in cross-border e-commerce businesses in the GBA in China, and the audience comprises individuals who need this digital expertise. The workshops and conference sessions will highlight the issues of cross-border e-commerce businesses in the GBA. These issues may include a balance in the use of innovative technologies and knowledge management, research knowledge and skills, education and training, regulatory and governance techniques and protocols. The conference would be the first of its kind to address such cross-border e-commerce issues.
 			</p>
-			<!--<p style="text-align: justify;color: #000000;">Sessions of the Conference shall include (but not be limited to) the following subthemes: community-based programmes and their effectiveness; development of health care services and long-term care in the greater bay area; primary care and district health systems; holistic and integrated models of care; long-term care service quality assurance; monitoring health care services; patient health and safety; performance management and measurement of health care services; professional ethics in health care services; service learning about elderly care; social enterprises for humanistic care; social responsibility of health care service organizations; training and continuous development of health care professionals; utilising technologies to enhance humanistic, holistic and integrated cares.</p>-->
-
-			<div class="container" style="max-width: 750px; padding-top: 0px; padding-bottom: 2px; font-size: 18px;">
-				<div class="mdl-cell mdl-cell--3-col"><b>Date:</b> 16 January 2023 (Monday)</div>
-			</div>
-			<div class="container" style="max-width: 750px; padding-top: 0px; padding-bottom: 2px; font-size: 18px;">
-				<div class="mdl-cell mdl-cell--3-col"><b>Time:</b> 9:00 am - 6:30 pm HKT (GMT +8)</div>
-			</div>
-			<div class="container" style="max-width: 750px; padding-top: 0px; padding-bottom: 2px; font-size: 18px;">
-				<div class="mdl-cell mdl-cell--9-col"><b>Venue:</b> UG06, PolyU Hung Hom Bay Campus (Hybrid via Zoom)</span></div>
-			</div>
-			<div class="container" style="max-width: 750px; padding-top: 0px; padding-bottom: 2px; font-size: 18px;">
-				<div class="mdl-cell mdl-cell--9-col"><b>Medium:</b> English</span></div>
-			</div>
+			<p style="text-align: justify;color: #000000;">
+				The project is supported by the School of Professional Education and Executive Development of The Hong Kong Polytechnic University (PolyU SPEED), Beijing Normal University – Hong Kong Baptist University United International College, Macao Institute for Tourism Studies, Shenzhen University, The Hang Seng University of Hong Kong, The Hong Kong Polytechnic University, Technological and Higher Education Institute of Hong Kong, Change Adaptation Planning for Port, Transportation Infrastructure, and the Arctic, Hong Kong Sea Transport and Logistics Association, and Climate, and Institute of Seatransport.
+			</p>
+			<p style="text-align: justify;color: #000000;">
+				Through this collaboration, this conference will increase the awareness and support from the industries to share ways to facilitate regional economic development and encourage greater economic integration within the GBA via cross-border e-commerce business development. In response, the conference participants will explore case studies of global companies’ use of e-commerce, with analyses of the use and impact of e-commerce. The participants will also discuss the benefits of e-commerce, the implementation of e-commerce applications, market opportunities and winning strategies of e-commerce.
+			</p>
 			<br>
-
-			<h4 class="title" style="color: #111177;"><b>Conference Organiser </b></h4>
-			<p style="color: #000000;"><a href="https://cpr.cpce-polyu.edu.hk/" target="_blank">CPCE Centre for Pedagogic
-					Research
-					(CPCECPR)</a> at PolyU CPCE</p>
-
+			<h4 class="title" style="color: #111177;"><b>Co-Organisers (in Alphabetical Order)</b></h4>
+			<br />
+			<ul style="font-size:16px">
+				<li>Beijing Normal University – Hong Kong Baptist University United International College, PR Chin</li>
+				<li>Climate Change Adaptation Planning for Port, Transportation Infrastructure, and the Arctic, Canada</li>
+				<li>Hong Kong Sea Transport and Logistics Association, Hong Kong</li>
+				<li>Institute of Seatransport, Hong Kong</li>
+				<li>Macao Institute for Tourism Studies, Maca</li>
+				<li>Shenzhen University, PR China</li>
+				<li>Technological and Higher Education Institute of Hong Kong, Hong Kong</li>
+				<li>The Hang Seng University of Hong Kong, Hong Kong</li>
+				<li>The Hong Kong Polytechnic University, Hong Kong</li>
+			</ul>
 			<br />
 
 			<br />

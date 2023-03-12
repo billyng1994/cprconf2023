@@ -1,27 +1,30 @@
 <header>
-    <div class="container" id="banner">
-        <div class="row" style="position: relative;">
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                <table class="table">
-                    <tr>
-                        <td style="border: none !important;" align="center"><br /><a href="https://www.polyu.edu.hk"
-                                target="_blank"><img src="images/poly.png" class="img-responsive" alt="PolyU"></a>
-                        </td>
-                        <td style="border: none !important;" align="left"><br /><a href="http://www.cpce-polyu.edu.hk/"
-                                target="_blank"><img src="images/cpce.png" class="img-responsive" alt="CPCE"></a></td>
-                        <td style="border: none !important;" align="center"><br /><a href="http://www.hkcc-polyu.edu.hk/"
-                                target="_blank"><img src="images/hkcc.png" class="img-responsive" alt="HKCC"></a></td>
-                        <td style="border: none !important;" align="center"><br /><a href="http://www.speed-polyu.edu.hk/"
-                                target="_blank"><img src="images/speed.png" class="img-responsive" alt="SPEED"></a></td>
-                        <td style="border: none !important;" align="center"><br /><a href="https://cpr.cpce-polyu.edu.hk/"
-                                target="_blank"><img src="images/cpr_smaller.jpg" class="img-responsive" alt="CPR"></a></td>
-                        <td style="border: none !important;" align="center"><br /><a href="https://www.polyu.edu.hk/en/edc/about-edc/"
-                                target="_blank"><img src="images/EDC.jpg" class="img-responsive" alt="EDC"></a></td>
-                    </tr>
-                </table>
-            </div>
+    <div class="container" id="banner" style="width:100%">
+    <div class="row" style="position: relative;">
+            
+            
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <div style="display:flex;flex-wrap:wrap;justify-content:space-evenly;">
+        <img src="images/poly.jpg" class="img-responsive logo" alt="PolyU">
+        <img src="images/speed.jpg" class="img-responsive logo" alt="speed">
+        <img src="images/HSUHK_Logo.jpg" class="img-responsive logo" alt="HSUHK">
+        <img src="images/THEi_Logo.png" class="img-responsive logo" alt="THEi">
+        <img src="images/UIC-logo.jpg" class="img-responsive logo" alt="UIC">
+        <img src="images/IFTM_CI_Logo.jpg" class="img-responsive logo" alt="IFTM_CI">
+        <img src="images/SZU_Logo.jpeg" class="img-responsive logo" alt="SZU">
+        <img src="images/HKSTLA_Logo.png" class="img-responsive logo" alt="HKSTLA">
+        <img src="images/CCAPPTIA_Logo.jpeg" class="img-responsive logo" alt="CCAPPTIA">
+        <img src="images/IOS_Logo.jpg" class="img-responsive logo" alt="IOS">
         </div>
     </div>
+
+    </div>
+    </div>
+    <!-- <div class="container" id="banner">
+        <div class="row" style="position: relative;">
+            
+        </div>
+    </div> -->
     
     <!-- Fixed navbar -->
     <?php include "nav.php" ?>

@@ -37,8 +37,8 @@
     <div class="jumbotron">
       <h2 style="color: #111177;">Download</h2><br>
       <h3>Resources</h3>
-      <h3><a href="images/poster/23_Con_A2_poster_v2.pdf" target="_blank" download>Conference Poster</a></h3>
-      <h3><a href="images/ebooklet/23_Con_ebooklet.pdf" target="_blank" download>E-booklet</a></h3>
+      <h3><a href="images/posters/conf_banner.jpg" target="_blank" download>Conference Poster</a></h3>
+      <a href="images/posters/conf_banner.jpg" target="_blank" download><img src="images/posters/conf_banner.jpg" style="width:20%" /></a>
     </div> <!-- /container -->
   </div>
   <?php include "components/footer.php" ?>

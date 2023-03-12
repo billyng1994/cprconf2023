@@ -3,7 +3,7 @@ body {
     padding-top: 70px;
   }
 
-#index:hover, #programme:hover, #speakers:hover, #organisation:hover, #download:hover, #contact-us:hover, #sponsor:hover, #past_conferences:hover {
+#index:hover, #programme:hover, #speakers:hover, #organisation:hover, #download:hover, #contact-us:hover, #sponsor:hover, #technical_visit:hover {
   font-weight: 500 !important;
 }
 

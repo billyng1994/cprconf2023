@@ -29,7 +29,7 @@ body {
   }
 
   @media only screen and (min-width: 768px) {
-    .navbar-default .navbar-nav > li > a:hover {
+    .navbar-default .navbar-nav > li > a:hover{
       transform: translate(-1px, -7px);
       background-color: #e7e7e7;
       color: #555;
@@ -164,7 +164,7 @@ body {
     height: auto;
     vertical-align: middle;
   }
-  
+ 
   .overlay {
     position: absolute;
     top: 0;
@@ -190,33 +190,71 @@ body {
   .dropdown-menu {
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: #0e871f;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
   }
   
-  .dropdown-menu a {
-    color: black;
+  .dropdown-menu > li > a {
+    color: white;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
     text-align: left;
   }
   
-  .dropdown-menu a:hover {
-    background-color: #f1f1f1;
+  .dropdown-menu > li > a:hover {
+    color: black;
   }
   
   .dropdown:hover .dropdown-menu {
     display: block;
   }
+
+  .dropdown-menu>.active>a {
+    text-decoration: none !important;
+    outline: 0 !important;
+    border-radius: 20px 0 20px 20px;
+    background-color: #b6b6b6 !important;
+  }
+
+  .dropdown-menu>.active>a:hover {
+    background-color: white !important;
+    color: black;
+  }
   
   @media only screen and (max-width: 600px) {
     .dropdown-menu {
-      display: none !important;
+      display: contents !important;
+      background-color: transparent;
+      position: inherit !important;
     }
-  }
+
+    .dropdown-item{
+      color: white !important;
+      padding-top: 10px !important;
+      padding-bottom: 10px !important;
+      line-height: 20px !important;
+    }
+
+    .dropdown-item:hover{
+      color: black !important;
+      background-color: transparent !important;
+    }
+
+    .logo {
+      max-height: 40px;
+      margin: 1.5%
+    }
+  }    
+
+  @media only screen and (min-width: 600px) {
+    .logo {
+      max-height: 55px;
+      margin: 1.5%
+    }
+  }    
   
   #fixedbutton {
     position: fixed;
@@ -245,6 +283,7 @@ body {
   opacity: 1;
   filter: brightness(150%);
 }
+
 /* 
 .thumbnail_b:hover {
   filter: brightness(30%);
