@@ -5,7 +5,7 @@ $('#topnavbar').affix({
 });
 
 currentpath = window.location.pathname.split("/")
-currentpage = currentpath[2].length == 0 ? "index" : currentpath[2].split(".")[0]
+currentpage = currentpath[currentpath.length-1].length == 0 ? "index" : currentpath[currentpath.length-1].split(".")[0]
 
 console.log(currentpage)
 
