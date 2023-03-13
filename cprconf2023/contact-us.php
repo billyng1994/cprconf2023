@@ -44,7 +44,6 @@
           <br>CPCECPR Website: <a href="https://cpr.cpce-polyu.edu.hk/" target="_blank">https://cpr.cpce-polyu.edu.hk/</a>
         </p><br>
         <p>Instagram:</p>
-        <img src="images/qrcode_img/cpce_cpr_qrcode.png">
         
       </div>
       <br><br><br><br><br><br>
