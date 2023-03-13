@@ -29,11 +29,7 @@
     <!-- Fixed navbar -->
     <?php include "nav.php" ?>
     <div class="thumbnail_b text-center">
-        <a href="#" id="banner-reg-btn">Register Now</a>       
+        <!-- <a href="#" id="banner-reg-btn">Register Now</a>        -->
         <div class="banner-wrapper"><img src="images/banner/16012023_Conference_banners_v2.gif" class="img-responsive" id="main-banner" width="100%" /></div>
-        <div class="caption">
-            <!-- v1: #11400e, v2: #95a02a, v3: #735a24 -->
-
-        </div>
     </div>
 </header>

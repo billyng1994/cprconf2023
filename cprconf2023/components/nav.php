@@ -22,7 +22,7 @@
                     <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="programme-dropdown">
                         <li id="call_for_paper" style="display: flex;justify-content: center;"><a class="nav-link dropdown-item" href="call_for_paper.php">CALL FOR PAPER</a></li>
                         <li id="programme_rundown" style="display: flex;justify-content: center;"><a class="nav-link dropdown-item" href="programme.php">PROGRAMME RUNDOWN</a></li>
-                        <li id="submission" style="display: flex;justify-content: center;"><a class="nav-link dropdown-item" href="programme.php">SUBMISSION</a></li>
+                        <li id="submission" style="display: flex;justify-content: center;"><a class="nav-link dropdown-item" href="submission.php">SUBMISSION</a></li>
                     </ul>
                 </li>
                 <li id="speakers"><a href="speakers.php">SPEAKERS</a></li>

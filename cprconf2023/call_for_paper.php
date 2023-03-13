@@ -74,17 +74,42 @@
             <br />
             <h2 style="color: #111177;">Key Dates</h2>
             <br />
-            <p style="text-align: justify;color: #000000;">Abstracts submission (Presentation & Full Paper): 12 May 2023</p>
-            <p style="text-align: justify;color: #000000;">Abstracts submission (Presentation Only): 19 May 2023</p>
-            <p style="text-align: justify;color: #000000;">Notification of Abstract Acceptance: 26 May 2023</p>
-            <p style="text-align: justify;color: #000000;">Submission of Final Paper: 30 June 2023</p>
-            <p style="text-align: justify;color: #000000;">Notification of Final Paper Acceptance: 12 July 2023</p>
-            <p style="text-align: justify;color: #000000;">Author Registration Deadline: 25 July 2023</p>
-            <p style="text-align: justify;color: #000000;">Conference: 11-12 August-2023</p>
+			<table class="table table-striped" style="max-width:600px">
+				<tbody>
+					<tr>
+						<td>Abstracts submission (Presentation & Full Paper):</td>
+						<td>12 May 2023</td>
+					</tr>
+					<tr>
+						<td>Abstracts submission (Presentation Only):</td>
+						<td>19 May 2023</td>
+					</tr>
+					<tr>
+						<td>Notification of Abstract Acceptance:</td>
+						<td>26 May 2023</td>
+					</tr>
+					<tr>
+						<td>Submission of Final Paper:</td>
+						<td>30 June 2023</td>
+					</tr>
+					<tr>
+						<td>Notification of Final Paper Acceptance:</td>
+						<td>12 July 2023</td>
+					</tr>
+					<tr>
+						<td>Author Registration Deadline:</td>
+						<td>25 July 2023</td>
+					</tr>
+					<tr>
+						<td>Conference:</td>
+						<td>11-12 Aug 2023</td>
+					</tr>
+				</tbody>
+			</table>
             <p style="text-align: justify;color: #000000;">Final papers will be considered for selection into the Conference Recommended Journal Special Issue</p>
+			<br />
+            <br />
             <img src="images/economies_Logo.jpg" style="width:70%" />
-            <br />
-            <br />
             <h2 style="color: #111177;">Economies – E-Commerce and E-Supply Chain Management</h2>
             <br/>
             <p style="text-align: justify;color: #000000;">High Visibility: indexed within Scopus, ESCI (Web of Science), EconLit, EconBiz, RePEc, and other databases. </p>

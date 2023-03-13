@@ -36,9 +36,28 @@
     <!-- Main component for a primary marketing message or call to action -->
     <div class="jumbotron">
       <h2 style="color: #111177;">Download</h2><br>
-      <h3>Resources</h3>
-      <h3><a href="images/posters/conf_banner.jpg" target="_blank" download>Conference Poster</a></h3>
-      <a href="images/posters/conf_banner.jpg" target="_blank" download><img src="images/posters/conf_banner.jpg" style="width:20%" /></a>
+      <h3>Templetes</h3>
+      <br />
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-6">
+            <a href="downloads/Abstract_Template_for_Submission.docx" target="_blank" download><p>Abstract Template for Submission</p></a>
+            <iframe src="https://studenthkccpolyuedu-my.sharepoint.com/personal/21065668s_common_cpce-polyu_edu_hk/_layouts/15/Doc.aspx?sourcedoc={4cc7c9ba-1fa3-4bc7-87d5-942f814b888c}&amp;action=embedview&amp;wdEmbedCode=0" width="375px" height="530px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+          </div>
+          <div class="col-12 col-lg-6">
+            <a href="downloads/Full_Paper_template_for_submissions.docx" target="_blank" download><p>Ful Paper template for submissions</p></a>
+            <iframe src="https://studenthkccpolyuedu-my.sharepoint.com/personal/21065668s_common_cpce-polyu_edu_hk/_layouts/15/Doc.aspx?sourcedoc={91ab8191-8d2c-44e3-b733-a0aa5be99690}&amp;action=embedview&amp;wdEmbedCode=0" width="375px" height="530px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+          </div>
+        </div>
+      </div>
+      <br />
+      <br />
+      <h3>Conference Poster</h3>
+      <br />
+      <div class="thumbnail_b text-center" style="max-width:320px">
+        <a id="banner-reg-btn" href="images/posters/conf_banner.jpg" target="_blank" download>Download</a>
+        <a href="images/posters/conf_banner.jpg" target="_blank" download><img src="images/posters/conf_banner.jpg" style="width:100%" /></a>
+      </div>
     </div> <!-- /container -->
   </div>
   <?php include "components/footer.php" ?>
