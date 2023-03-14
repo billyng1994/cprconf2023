@@ -6,8 +6,8 @@ body {
   
   #topnavbar {
     background-color: rgb(14,135,31) !important;
-    border-top: solid !important;
-    border-width: 3px !important;
+    /* border-top: solid !important;
+    border-width: 3px !important; */
     margin: 0;
     border: none;
   }

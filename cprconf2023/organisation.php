@@ -31,14 +31,21 @@
     <![endif]-->
 </head>
 <style>
-  p {
-    font-size: 15px;
+  #committee_table p, #intl_committee_table p {
+    padding: 15px 0px 15px 10px;
+    margin: 0px 0px 0px 0px;
+    vertical-align: middle;
+
   }
-  mark { 
-  background-color: yellow;
-  color: black;
+
+  #supporting_org_table > tbody > tr *{
+    vertical-align: middle;
+    border: none;
   }
-</style>
+  #supporting_org_table > tbody > tr > td span{
+    font-size: 18px;
+    font-weight: bold;
+  } 
 </style>
 
 <body class="fontfamily">
@@ -46,121 +53,268 @@
 
   <div class="container">
     <!-- Main component for a primary marketing message or call to action -->
-
+    
+    <!-- Conference Chair -->
     <div class="" style="text-align: justify">
-      <h2 style="color: #111177;">Organisation</h2><br>
-      <h3 id="1" style="background-color: #fcfcfc;color: #111177;">Hosts</h3>
-      <p><a href="https://directory.cpce-polyu.edu.hk/staff-directory/en/cpce/cpce-do/peter-yuen"
-          target="_blank">Prof. Peter P. YUEN</a><br/>Dean, PolyU CPCE
-      </p>
-      <p><a
-          href="https://www.speed-polyu.edu.hk/staff/division-of-science-engineering-and-health-studies/chun-wah-leung"
-          target="_blank">Prof. LEUNG, Chun-wah</a><br />Professor and Associate Dean (Research), PolyU CPCE; <br>
-        Advisor, CPCE Centre for Pedagogic Research (CPCECPR)
+      <!-- Big Title -->
+      <h2 style="color: #111177;">Organising Committee</h2><br>
 
+      <h3 style="background-color: #fcfcfc;color: #111177;">Conference Chair:</h3>
+      <p style="font-size: 18px;">
+        <a 
+          href="https://directory.cpce-polyu.edu.hk/staff-directory/en/cpce/cpce-acadiv-bhm-acastf/yuiyip-lau"
+          target="_blank"
+          >Dr. LAU Yui Yip</a>
+          <br/>
+          <span>
+            Senior Lecturer, </br> Division of Business and Hospitality Management, The School of Professional Education and Executive Development, The Hong Kong Polytechnic University
+          </span>
       </p>
-      <p><a
-          href="https://www.hkcc-polyu.edu.hk/en/about-hkcc/staff-directory/division-of-languages-and-communication/index.php?sid=114"
-          target="_blank">Dr TONG, Esther Ka-man</a><br />Division Head, Division of Languages and Communication, PolyU
-        CPCE; <br>
-        Director, CPCECPR
 
-      </p>
-      <br />
-      <h3 id="1" style="background-color: #fcfcfc;color: #111177;">Co-Hosts</h3>
-      <p> 
-        <a href="https://www.polyu.edu.hk/edc/about-edc/">PolyU EDC (Educational Development Centre)</a>
-       </p>
-      <h3 id="6" style="background-color: #fcfcfc;color: #111177;">Organising Committee</h3><br>
-      <h4 style="color: #1d1da3;">Chair</h4>
-      <p><a
-          href="https://www.hkcc-polyu.edu.hk/en/about-hkcc/staff-directory/division-of-languages-and-communication/index.php?sid=117"
-          target="_blank">Dr LAI, Wience Wing-sze</a>, Associate Head, Division of Languages and Communication, PolyU
-        CPCE; Deputy Director, CPCECPR
+      <br>
+
+      <!-- Conference Co-Chairs -->
+      <h3 id="1" style="background-color: #fcfcfc;color: #111177;">Conference Co-Chairs:</h3>
+      <p>
+        
+        <a href="https://scm.hsu.edu.hk/us/aboutus/faculty/57"
+          target="_blank">Dr. WONG Yin Cheung</a>
+          <br/>
+          <span>
+            Associate Head and Associate Professor,</br> Department of Supply Chain and Information Management, The Hang Seng University of Hong Kong
+          </span>
       </p>
       <p>
-        <a
-          href="#"
-          target="_blank">Dr TONG, Esther Ka Man</a>
-        Dr TONG, Esther Ka Man, Division Head, Division of Languages and Communication, PolyU CPCE; Director, CPCECPR
+        <a href="https://directory.cpce-polyu.edu.hk/staff-directory/en/cpce/cpce-acadiv-sehs-acastf/andrew-wu"
+          target="_blank">Dr. WU Yang</a>
+          <br/>
+          <span>
+          Lecturer,</br> Division of Science, Engineering and Health Studies The School of Professional Education and Executive Development, The Hong Kong Polytechnic University
+          </span>
       </p>
+
       <br>
-      <!-- MEMBERS -->
-      <h4 style="color: #1d1da3;">Members</h4>
-      <table class="table table-borderless">
+
+      <!--HEADER: Organising Committee -->
+      <h3 style="background-color: #fcfcfc;color: #111177;">Organising Committee</h3>  
+      
+      <!-- Table of Committee Member -->
+      <table id="committee_table" class="table">
         <tbody>
           <tr>
-            <!-- BHM -->
-            <td style="text-align:left;padding: 15px 8px;">
-              <p><a
-                href="https://directory.cpce-polyu.edu.hk/staff-directory/en/cpce/cpce-acadiv-bhm-acastf/yuiyip-lau"
-                target="_blank"> Dr LAU, Joseph Yui-yip, Senior Lecturer in BHM; Associate Member, CPCECPR</a>
-
-
-            </p>
-              <p><a href="https://directory.cpce-polyu.edu.hk/staff-directory/en/cpce/cpce-acadiv-bhm-acastf/may-lau"
-                  target="_blank">Dr LAU, May MM, Lecturer in BHM; Member, CPCECPR</a>
+            <td>
+              <p>
+                <a 
+                  href="https://www.thei.edu.hk/staff/details/man-hin-eve-chan"
+                  target="_blank">Dr. CHAN Man Hin</a>
+                  <br/>
+                  <span>
+                    Assistant Professor,</br> Department of Design, Technological and Higher Education Institute of Hong Kong
+                  </span>
               </p>
-              <p><a
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>
+                <b>Prof. CHEN Jihong</b>
+                  <br/>
+                  <span>
+                  Distinguished Professor,</br> College of Management, Shenzhen University
+                  </span>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>
+                <a 
+                  href="https://www.iftm.edu.mo/shm/en/people/faculty-members/index.html?name=jenny"
+                  target="_blank">Dr. GUAN Jieqi</a>
+                  <br/>
+                  <span>
+                    Assistant Professor,</br> School of Hospitality Management, Macao Institute for Tourism Studies
+                  </span>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>
+                <a 
+                  href="https://staff.uic.edu.cn/adolfng/en"
+                  target="_blank">Prof. NG Adolf Koi Yu</a>
+                  <br/>
+                  <span>
+                    Associate Head and Professor,</br> Division of Business and Management, Beijing Normal University - Hong Kong Baptist University United International College
+                  </span>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>
+                <a 
                   href="https://directory.cpce-polyu.edu.hk/staff-directory/en/cpce/cpce-ceso/macy-wong"
-                  target="_blank">Dr WONG, Macy Mei-chi, Senior Lecturer in BHM; Chairperson of Research Personnel/Student Sub-Committee, CPCECPR</a>
-              </p>
-            </td>
-          </tr>
-          <!-- LC -->
-          <tr>
-            <td style="text-align:left;padding: 15px 8px;">
-              <p><a
-                  href="https://directory.hkcc-polyu.edu.hk/staff-directory/en/hkcc/hkcc-lc-acastf/lokmingeric-cheung"
-                  target="_blank">Dr CHEUNG, Eric Lok-ming, Lecturer in LC; Member, CPCECPR</a>
-
-              </p>
-              <p><a
-                  href="https://directory.hkcc-polyu.edu.hk/staff-directory/en/hkcc/hkcc-lc-acastf/frieda-kwok"
-                  target="_blank">Dr KWOK, Frieda Yuk-yin, Senior Lecturer in LC; Member, CPCECPR</a>
-              </p>
-              <p><a
-                href="https://directory.hkcc-polyu.edu.hk/staff-directory/en/hkcc/hkcc-lc-acastf/helen-yeh"
-                target="_blank">Dr YEH, Helen WM, Lecturer in LC; Member, CPCECPR</a>
-            </p>
-            </td>
-          </tr>
-          <!-- SEHS -->
-          <tr>
-            <td style="text-align:left;padding: 15px 8px;">
-              <p><a
-                  href="https://directory.speed-polyu.edu.hk/staff-directory/en/speed/spd-speed-acadis-aacadis/adam-wong"
-                  target="_blank">Dr WONG, Adam Ka-lok, Senior Lecturer in SEHS; Deputy Director, CPCECPR</a>
+                  target="_blank">Dr. WONG Mei Chi</a>
+                  <br/>
+                  <span>
+                  Head of Employability Services Office and Senior Lecturer,</br> Division of Business and Hospitality Management, The School of Professional Education and Executive Development, The Hong Kong Polytechnic University
+                  </span>
               </p>
             </td>
           </tr>
           <tr>
-
-            <td style="text-align:left;padding: 15px 8px;">
-              <p><a
-                  href="https://directory.speed-polyu.edu.hk/staff-directory/en/speed/spd-speed-acadis-aacadis/vincent-law"
-                  target="_blank">Dr LAW, Vincent Tin-sing, Senior Lecturer in SSHD; Associate Member, CPCECPR</a>
+            <td>
+              <p>
+                <a 
+                  href="https://directory.hkcc-polyu.edu.hk/staff-directory/en/hkcc/hkcc-bhm-acastf/helen-wong"
+                  target="_blank">Dr. WONG Shun Mun</a>
+                  <br/>
+                  <span>
+                  Division Head and Principal Lecturer,</br> Division of Business and Hospitality Management, The School of Professional Education and Executive Development, The Hong Kong Polytechnic University
+                  </span>
               </p>
-
-              <p><a href="https://directory.speed-polyu.edu.hk/staff-directory/en/speed/spd-speed-acadis-aacadis/onting-lo" target="_blank">
-                Dr LO, On-ting, Lecturer in SSHD; Member, CPCECPR</a>
-              </p>
-              <p><a href="https://directory.cpce-polyu.edu.hk/staff-directory/en/cpce/cpce-acadiv-sshd-acastf/vera-sun" target="_blank">
-                Dr SUN, Vera Nim-yan, Senior Lecturer in SSHD; Member, CPCECPR</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>
+                <a 
+                  href="https://www.polyu.edu.hk/en/lms/people/academic-staff/t-l-yip/"
+                  target="_blank">Ir Dr. YIP Tsz Leung</a>
+                  <br/>
+                  <span>
+                  Associate Dean of Students and Associate Professor,</br> Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University
+                  </span>
               </p>
             </td>
           </tr>
         </tbody>
       </table>
 
+      <br>
 
-      <h4 style="color: #1d1da3;">Secretary</h4>
+      <!--HEADER: International Steering Committee -->
+      <h3 style="background-color: #fcfcfc;color: #111177;">International Steering Committee</h3>  
       
-      <p><a href="#" style="pointer-events: none; cursor: default;">Miss Jennifer LAU</a>, Programme Officer, Division of Languages and Communication, PolyU CPCE</p>
+      <!-- Table of International Steering Committee -->
+      <table id="intl_committee_table" class="table">
+        <tbody>
+          <tr>
+            <td>
+              <p>
+                <b>Dr. CHEN Qiong</b>
+                  <br/>
+                  <span>
+                    Lecturer,</br> Navigation College, Jimei University
+                  </span>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>
+                <b>Dr. HU Rong</b>
+                  <br/>
+                  <span>
+                    Associate Professor and Director of Postgraduate Department,</br> School of Customs and Public Administration, Shanghai Customs College
+                  </span>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>
+                <b>Dr. LEI Zhimei</b>
+                  <br/>
+                  <span>
+                    Lecturer,</br> Faculty of Management and Economics, Kunming University of Science and Technology
+                  </span>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>
+                <b>Dr. Maneerat KANRAK</b>
+                  <br/>
+                  <span>
+                    Lecturer,</br> Faculty of Interdisciplinary Studies, Khon Kaen University
+                  </span>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>
+                <a 
+                  href="https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-engineering/mark-poo"
+                  target="_blank">Dr. Mark POO</a>
+                  <br/>
+                  <span>
+                    Research Fellow,</br> Faculty of Engineering and Technology, Liverpool John Moores University
+                  </span>
+              </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
 
-      <br />
+      <br>
+
+      <!-- HEADER: Secretary -->
+      <h4 style="color: #1d1da3;">Conference Secretariat</h4>
+      <p>Ms Cherry CHUI</p>
+
+      <br>
+
+      <h3 style="background-color: #fcfcfc;color: #111177;">Supporting Organizations</h3>
+      <table id="supporting_org_table" class="table">
+        <tbody>
+          <tr>
+            <td class="col-md-1 text-center">
+                <a 
+                  href="https://hkstla.org/zh/homepage-%E4%B8%AD%E6%96%87-%E9%A6%99%E6%B8%AF/"
+                  target="_blank">
+                  <img src="images/HKSTLA_Logo.png" alt="" srcset="" style="width: 100%; height:auto;">
+                </a>
+                <br/><br/>
+                <span>
+                  Hong Kong Sea Transport and Logistics Association
+                </span>
+            </td>
+            <td class="col-md-1 text-center">
+              <a 
+                href="http://seatransport.org/"
+                target="_blank">
+                  <img src="images/IOS_Logo.jpg" alt="" srcset="" style="width: 70%; height:auto;">
+              </a>
+              <br/><br/>
+              <span>
+                Institute of Seatransport
+              </span>
+            </td>
+            <td class="col-md-1 text-center">
+
+              <a 
+                  href="https://www.ccapptia.com/"
+                  target="_blank">
+                    <img src="images/CCAPPTIA_Logo.jpeg" alt="" srcset="" style="width: 70%; height:auto;">
+                </a>
+                <br/><br/>
+                <span>
+                  Climate Change Adaptation Planning for Port, Transportation Infrastructure, and the Arctic
+                </span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
     </div> <!-- /container -->
   </div>
+
+  <!-- Footer -->
   <?php include "components/footer.php" ?>
 
   <!-- Bootstrap core JavaScript

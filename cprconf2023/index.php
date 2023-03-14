@@ -35,7 +35,7 @@
 	<div class="container">
 		<!-- Main component for a primary marketing message or call to action -->
 		<div class="jumbotron">
-			<h4 class="title" style="color: #111177;"><b>About this cofference</b></h4>
+			<h4 class="title" style="color: #111177;"><b>About this conference</b></h4>
 			<br />
 			<p style="text-align: justify;color: #000000;">
 				This 2-day conference is approved and funded by the Inter-Institutional Development Scheme (IIDS) project. The IIDS project reference number is UGC/IIDS24/B02/22. The principal investigator of the IIDS project is Dr. Joseph LAU. The IIDS project title is “Building and Sustaining the Momentum of Cross-border Ecommerce for the Greater Bay Area”.

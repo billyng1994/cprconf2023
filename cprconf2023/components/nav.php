@@ -9,7 +9,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand visible-xs" href="#" style="color: #ffffff;">CPCECPR Conference 2023</a>
+            <a class="navbar-brand visible-xs" href="#" style="color: #ffffff;"> Conference 2023</a>
         </div>
 
         <div id="navbar" class="navbar-collapse collapse navbar-inner">
@@ -26,11 +26,11 @@
                     </ul>
                 </li>
                 <li id="speakers"><a href="speakers.php">SPEAKERS</a></li>
-                <li id="organisation"><a href="organisation.php">ORGANISATION</a></li>
+                <li id="organisation"><a href="organisation.php">ORGANISING COMMITTEE</a></li>
                 <li id="download"><a href="download.php">DOWNLOAD</a></li>
                 <li id="contact-us"><a href="contact-us.php">CONTACT US</a></li>
-                <li id="sponsor"><a href="sponsor.php">SPONSORS</a></li>
-                <li id="technical_visit"><a href="technical_visit.php">TECHNICAL VISIT</a></li>
+                <!-- <li id="sponsor"><a href="sponsor.php">SPONSORS</a></li> -->
+                <!-- <li id="technical_visit"><a href="technical_visit.php">TECHNICAL VISIT</a></li> -->
             </ul>
         </div>
         <!--/.nav-collapse -->
