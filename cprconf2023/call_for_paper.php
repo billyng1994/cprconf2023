@@ -30,6 +30,13 @@
     <![endif]-->
 </head>
 
+<style>
+	#guest_editors_table td{
+		/* border: none; */
+	}
+
+</style>
+
 <body class="fontfamily">
     <?php include "components/header.php" ?>
 
@@ -62,6 +69,7 @@
                 <li>Market opportunities for e-commerce</li>
                 <li>Winning strategies for e-commerce</li>
                 <li>Blockchain-related technologies</li>
+                <li>Education for GBA cross-border e-commence development</li>
 			</ul>
             <p style="text-align: justify;color: #000000;">All submitted papers will be peer-reviewed. Best Paper Awards will be awarded to individuals or teams for outstanding contributions to this field of research. The awards will be announced at the conference, and certificates will be presented to the awardees.
             </p>
@@ -110,10 +118,32 @@
 			<br />
             <br />
             <img src="images/economies_Logo.jpg" style="width:70%" />
-            <h2 style="color: #111177;">Economies – E-Commerce and E-Supply Chain Management</h2>
+            <h2 style="color: #111177;">Economies - E-Commerce and E-Supply Chain Management</h2>
             <br/>
-            <p style="text-align: justify;color: #000000;">High Visibility: indexed within Scopus, ESCI (Web of Science), EconLit, EconBiz, RePEc, and other databases. </p>
-            <p style="text-align: justify;color: #000000;">Journal Rank: CiteScore - Q2 (Economics, Econometrics, and Finance (miscellaneous)) </p>
+            <p style="text-align: justify;color: #000000;">High Visibility: indexed within Scopus, ESCI (Web of Science), EconLit, EconBiz, RePEc, and other databases. </p>
+            <p style="text-align: justify;color: #000000;">Journal Rank: CiteScore - Q2 (Economics, Econometrics, and Finance (miscellaneous)) </p>
+
+			<h3 style="color: #111177;">Guest Editors: </h3>
+			<p>
+				<a 
+				href="https://directory.cpce-polyu.edu.hk/staff-directory/en/cpce/cpce-acadiv-bhm-acastf/yuiyip-lau"
+				target="_blank">
+				Dr. LAU Yui Yip</a>
+				<br/>
+				<span>
+					Senior Lecturer, </br> Division of Business and Hospitality Management, The School of Professional Education and Executive Development, The Hong Kong Polytechnic University
+				</span>
+			</p>
+			<br>
+			<p>
+				<a href="https://scm.hsu.edu.hk/us/aboutus/faculty/57"
+				target="_blank">Dr. WONG Yin Cheung</a>
+				<br/>
+				<span>
+					Associate Head and Associate Professor,</br> Department of Supply Chain and Information Management, The Hang Seng University of Hong Kong
+				</span>
+			</p>
+					
 		</div> <!-- /container -->
 	</div>
     <?php include "components/footer.php" ?>
