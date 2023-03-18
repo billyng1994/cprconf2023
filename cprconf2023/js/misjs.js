@@ -11,6 +11,6 @@ console.log(currentpage)
 
 $("#"+currentpage).addClass("active")
 
-if(currentpage == "call_for_paper" || currentpage == "submission"){
+if(currentpage == "call_for_paper" || currentpage == "submission" || currentpage == "programme_rundown"){
     $("#programme").addClass("active")
 }

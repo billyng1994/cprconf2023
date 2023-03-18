@@ -85,36 +85,36 @@
 			<table class="table table-striped" style="max-width:600px">
 				<tbody>
 					<tr>
-						<td>Abstracts submission (Presentation & Full Paper):</td>
-						<td>12 May 2023</td>
+						<td><p><b>Abstracts submission (Presentation & Full Paper):</b></p></td>
+						<td style="text-align: center;"><p>12 May 2023</p></td>
 					</tr>
 					<tr>
-						<td>Abstracts submission (Presentation Only):</td>
-						<td>19 May 2023</td>
+						<td><p><b>Abstracts submission (Presentation Only):</b></p></td>
+						<td style="text-align: center;"><p>19 May 2023</p></td>
 					</tr>
 					<tr>
-						<td>Notification of Abstract Acceptance:</td>
-						<td>26 May 2023</td>
+						<td><p><b>Notification of Abstract Acceptance:</b><p></td>
+						<td style="text-align: center;"><p>26 May 2023</p></td>
 					</tr>
 					<tr>
-						<td>Submission of Final Paper:</td>
-						<td>30 June 2023</td>
+						<td><p><b>Submission of Final Paper:</b></p></td>
+						<td style="text-align: center;"><p>30 June 2023</p></td>
 					</tr>
 					<tr>
-						<td>Notification of Final Paper Acceptance:</td>
-						<td>12 July 2023</td>
+						<td><p><b>Notification of Final Paper Acceptance:</b><p></td>
+						<td style="text-align: center;"><p>12 July 2023</p></td>
 					</tr>
 					<tr>
-						<td>Author Registration Deadline:</td>
-						<td>25 July 2023</td>
+						<td><p><b>Author Registration Deadline:</b></p></td>
+						<td style="text-align: center;"><p>25 July 2023</p></td>
 					</tr>
 					<tr>
-						<td>Conference:</td>
-						<td>11-12 Aug 2023</td>
+						<td><p><b>Conference:</b></p></td>
+						<td style="text-align: center;"><p>11-12 Aug 2023</p></td>
 					</tr>
 				</tbody>
 			</table>
-            <p style="text-align: justify;color: #000000;">Final papers will be considered for selection into the Conference Recommended Journal Special Issue</p>
+            <p style="text-align: justify;color: #000000;"><span>Final papers will be considered for selection into the Conference Recommended </span><a href="https://www.mdpi.com/journal/economies/special_issues/079N5618N9" target="_blank">Journal Special Issue</a></p>
 			<br />
             <br />
             <img src="images/economies_Logo.jpg" style="width:70%" />

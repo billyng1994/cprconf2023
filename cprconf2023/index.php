@@ -35,7 +35,7 @@
 	<div class="container">
 		<!-- Main component for a primary marketing message or call to action -->
 		<div class="jumbotron">
-			<h4 class="title" style="color: #111177;"><b>About this conference</b></h4>
+			<h2 style="color: #111177;"><b>About this conference</b></h2>
 			<br />
 			<p style="text-align: justify;color: #000000;">
 				This 2-day conference is approved and funded by the Inter-Institutional Development Scheme (IIDS) project. The IIDS project reference number is UGC/IIDS24/B02/22. The principal investigator of the IIDS project is Dr. Joseph LAU. The IIDS project title is “Building and Sustaining the Momentum of Cross-border Ecommerce for the Greater Bay Area”.
@@ -50,7 +50,7 @@
 				Through this collaboration, this conference will increase the awareness and support from the industries to share ways to facilitate regional economic development and encourage greater economic integration within the GBA via cross-border e-commerce business development. In response, the conference participants will explore case studies of global companies’ use of e-commerce, with analyses of the use and impact of e-commerce. The participants will also discuss the benefits of e-commerce, the implementation of e-commerce applications, market opportunities and winning strategies of e-commerce.
 			</p>
 			<br>
-			<h4 class="title" style="color: #111177;"><b>Co-Organisers (in Alphabetical Order)</b></h4>
+			<h2 style="color: #111177;"><b>Co-Organisers (in Alphabetical Order)</b></h2>
 			<br />
 			<ul style="font-size:16px">
 				<li>Beijing Normal University – Hong Kong Baptist University United International College, PR Chin</li>

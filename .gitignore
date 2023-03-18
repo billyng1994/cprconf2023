@@ -1,0 +1,8 @@
+# ignore evn file if exist
+.evn
+
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/

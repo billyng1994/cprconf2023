@@ -36,49 +36,103 @@
 	<div class="container">
 		<!-- Main component for a primary marketing message or call to action -->
 		<div class="jumbotron">
-			<p style="color: #000000;">Submit abstracts or papers for this conference by sending an e-mail to:
-			<a href="mailto:chuiying.chung@speed-polyu.edu.hk">chuiying.chung@speed-polyu.edu.hk</a> or 
-			<a href="mailto:research.SCrebuilding.speed@gmail.com">research.SCrebuilding.speed@gmail.com</a>
+			<p style="color: #000000;">
+				<span>Submit abstracts or papers for this conference by sending an e-mail to:</span>
+				<a href="mailto:chuiying.chung@speed-polyu.edu.hk">chuiying.chung@speed-polyu.edu.hk</a> 
+				<span>or </span>
+				<a href="mailto:research.SCrebuilding.speed@gmail.com">research.SCrebuilding.speed@gmail.com</a>
 			</p>
 			<br/>
-			<p><b>The templates preparing for the abstract and full paper can be found on the website (Download section).</b></p>
+			<p><b>The templates preparing for the abstract and full paper can be found on the website (<a href="download.php">Download section</a>).</b></p>
 			<br/>
 			<h2 style="color: #111177;">Key Dates</h2>
             <br />
 			<table class="table table-striped" style="max-width:600px">
 				<tbody>
 					<tr>
-						<td>Abstracts submission (Presentation & Full Paper):</td>
-						<td>12 May 2023</td>
+						<td><p><b>Abstracts submission (Presentation & Full Paper):</b></p></td>
+						<td style="text-align: center;"><p>12 May 2023</p></td>
 					</tr>
 					<tr>
-						<td>Abstracts submission (Presentation Only):</td>
-						<td>19 May 2023</td>
+						<td><p><b>Abstracts submission (Presentation Only):</b></p></td>
+						<td style="text-align: center;"><p>19 May 2023</p></td>
 					</tr>
 					<tr>
-						<td>Notification of Abstract Acceptance:</td>
-						<td>26 May 2023</td>
+						<td><p><b>Notification of Abstract Acceptance:</b><p></td>
+						<td style="text-align: center;"><p>26 May 2023</p></td>
 					</tr>
 					<tr>
-						<td>Submission of Final Paper:</td>
-						<td>30 June 2023</td>
+						<td><p><b>Submission of Final Paper:</b></p></td>
+						<td style="text-align: center;"><p>30 June 2023</p></td>
 					</tr>
 					<tr>
-						<td>Notification of Final Paper Acceptance:</td>
-						<td>12 July 2023</td>
+						<td><p><b>Notification of Final Paper Acceptance:</b><p></td>
+						<td style="text-align: center;"><p>12 July 2023</p></td>
 					</tr>
 					<tr>
-						<td>Author Registration Deadline:</td>
-						<td>25 July 2023</td>
+						<td><p><b>Author Registration Deadline:</b></p></td>
+						<td style="text-align: center;"><p>25 July 2023</p></td>
 					</tr>
 					<tr>
-						<td>Conference:</td>
-						<td>11-12 Aug 2023</td>
+						<td><p><b>Conference:</b></p></td>
+						<td style="text-align: center;"><p>11-12 Aug 2023</p></td>
 					</tr>
 				</tbody>
 			</table>
 			<br/>
 			<p style="color: #000000;">All submitted papers will be peer-reviewed. Best Paper Awards will be awarded to individuals or teams for outstanding contributions to this field of research. The awards will be announced at the conference, and certificates will be presented to the awardees.</p>
+			<br/>
+			<br/>
+			<h2 style="color: #111177;">Submission & Topics</h2>
+			<br/>
+			<p style="color: #000000;">We are looking for papers focusing on the following topics related to e-commerce and Greater Bay Area business model, but not limited to:</p>
+			<ul style="font-size:16px">
+				<li>e-commerce operation management</li>
+				<li>Customs supervision and e-commerc</li>
+				<li>Commercial systems</li>
+				<li>Cross-border e-commerc</li>
+				<li>Brand new e-business models</li>
+				<li>E-business model changes brought about by the Covid-19 pandemic</li>
+				<li>Port and maritime digitalization</li>
+				<li>e-supply chain</li>
+				<li>Transaction model</li>
+				<li>Market opportunities for e-commerce</li>
+				<li>Winning strategies for e-commerc</li>
+				<li>Blockchain-related technologies</li>
+				<li>Education for GBA cross-border e-commence development</li>
+			</ul>
+			<br/>
+			<p style="color: #000000;"><span>Final papers will be considered for selection into the Conference Recommended </span><a href="https://www.mdpi.com/journal/economies/special_issues/079N5618N9"  target="_blank">Journal Special Issue</a></p>
+            <br />
+			<br/>
+			<img src="images/economies_Logo.jpg" style="width:70%" />
+			<br/>
+			<h2 style="color: #111177;">Economies – E-Commerce and E-Supply Chain Managemen</h2>
+			<br/>
+			<h3 style="color: #111177;">High Visibility: </h3>
+			<p style="color: #000000;">indexed within Scopus, ESCI (Web of Science), EconLit, EconBiz, RePEc, and other databases.</p>
+			<h3 style="color: #111177;">Journal Rank: </h3>
+			<p style="color: #000000;">CiteScore - Q2 Economics, Econometrics, and Finance (miscellaneous)</p>
+			<h3 style="color: #111177;">Guest Editors: </h3>
+			<p>
+				<a 
+				href="https://directory.cpce-polyu.edu.hk/staff-directory/en/cpce/cpce-acadiv-bhm-acastf/yuiyip-lau"
+				target="_blank">
+				Dr. LAU Yui Yip</a>
+				<br/>
+				<span>
+					Senior Lecturer, </br> Division of Business and Hospitality Management, The School of Professional Education and Executive Development, The Hong Kong Polytechnic University
+				</span>
+			</p>
+			<br>
+			<p>
+				<a href="https://scm.hsu.edu.hk/us/aboutus/faculty/57"
+				target="_blank">Dr. WONG Yin Cheung</a>
+				<br/>
+				<span>
+					Associate Head and Associate Professor,</br> Department of Supply Chain and Information Management, The Hang Seng University of Hong Kong
+				</span>
+			</p>
 		</div> <!-- /container -->
 	</div>
     <?php include "components/footer.php" ?>
