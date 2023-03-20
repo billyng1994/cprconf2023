@@ -300,16 +300,7 @@
 	<!-- Bootstrap core JavaScript
   ================================================== -->
 	<!-- Placed at the end of the document so the pages load faster -->
-	<a href="https://forms.office.com/pages/responsepage.aspx?id=tB4mbr-DhUWMwhMNAYjggWzywAeQE6NFsAizF0Ov7IBURTUwQVhJMVdTRkxVTVBWNkhSMVRXVEg3Mi4u"
-		target="_blank" id="fixedbutton"><button
-			style="border-radius: 8px; padding: 10px 20px; background-color: #0F4C81; color: white; font-size: 18px">Register
-			Now</button></a>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
-	<script src="js/bootstrap.min.js"></script>
-	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-	<script src="js/ie10-viewport-bug-workaround.js"></script>
-	<script src="js/misjs.js"></script>
+    <?php include "components/fixedButton_n_scripts.php" ?>
 </body>
 
 </html>
