@@ -6,3 +6,9 @@
 
 # ignore ALL files in ANY directory named temp
 temp/
+
+
+.DS_Store
+cprconf2023/.DS_Store
+
+cprconf2023/images/.DS_Store
