@@ -8,7 +8,7 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="description" content="">
   <meta name="author" content="">
-  <link rel="icon" href="images/cpr_smaller.jpg">
+  <link rel="icon" href="images/polypng.png">
   <title>Registration - CPCECPR Conference 2023</title>
   <!-- Font Aewsome CSS -->
   <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">

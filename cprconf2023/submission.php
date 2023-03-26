@@ -8,7 +8,7 @@
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<link rel="icon" href="images/cpr_smaller.jpg">
+	<link rel="icon" href="images/polypng.png">
 	<title>Submission - CPCECPR Conference 2023</title>
 	<!-- Font Aewsome CSS -->
 	<link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
@@ -83,6 +83,7 @@
 			<p style="color: #000000;">All submitted papers will be peer-reviewed. Best Paper Awards will be awarded to individuals or teams for outstanding contributions to this field of research. The awards will be announced at the conference, and certificates will be presented to the awardees.</p>
 			<br/>
 			<br/>
+			<hr>
 			<h2 style="color: #111177;">Submission & Topics</h2>
 			<br/>
 			<p style="color: #000000;">We are looking for papers focusing on the following topics related to e-commerce and Greater Bay Area business model, but not limited to:</p>
@@ -105,6 +106,7 @@
 			<p style="color: #000000;"><span>Final papers will be considered for selection into the Conference Recommended </span><a href="https://www.mdpi.com/journal/economies/special_issues/079N5618N9"  target="_blank">Journal Special Issue</a></p>
             <br />
 			<br/>
+			<hr>
 			<img src="images/economies_Logo.jpg" style="width:70%" />
 			<br/>
 			<h2 style="color: #111177;">Economies – E-Commerce and E-Supply Chain Managemen</h2>

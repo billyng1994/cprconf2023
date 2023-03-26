@@ -8,7 +8,7 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="description" content="">
   <meta name="author" content="">
-  <link rel="icon" href="images/cpr_smaller.jpg">
+  <link rel="icon" href="images/polypng.png">
   <title>Download - CPCECPR Conference 2023</title>
   <!-- Font Aewsome CSS -->
   <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
@@ -36,28 +36,35 @@
     <!-- Main component for a primary marketing message or call to action -->
     <div class="jumbotron">
       <h2 style="color: #111177;">Download</h2><br>
-      <h3>Templetes</h3>
+      
+      <h3 style="border-left: solid 5px green;padding-left: 10px;">Templetes</h3>
       <br />
       <div class="container">
         <div class="row">
           <div class="col-12 col-lg-6">
-            <a href="downloads/Abstract_Template_for_Submission.docx" target="_blank" download><p>Abstract Template for Submission</p></a>
-            <iframe src="https://studenthkccpolyuedu-my.sharepoint.com/personal/21065668s_common_cpce-polyu_edu_hk/_layouts/15/Doc.aspx?sourcedoc={4cc7c9ba-1fa3-4bc7-87d5-942f814b888c}&amp;action=embedview&amp;wdEmbedCode=0" width="375px" height="530px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+            <h4>Abstract Template for Submission</h4>
+            <a href="downloads/Abstract_Template_for_Submission.docx" target="_blank" download><img style="width:30%;margin:2% 10% 5% 0;max-width:200px" src="images/wordfileicon.png" alt="wordfile" /></a>
+            <br>
+            <a href="downloads/Abstract_Template_for_Submission.docx" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
           </div>
           <div class="col-12 col-lg-6">
-            <a href="downloads/Full_Paper_template_for_submissions.docx" target="_blank" download><p>Ful Paper template for submissions</p></a>
-            <iframe src="https://studenthkccpolyuedu-my.sharepoint.com/personal/21065668s_common_cpce-polyu_edu_hk/_layouts/15/Doc.aspx?sourcedoc={91ab8191-8d2c-44e3-b733-a0aa5be99690}&amp;action=embedview&amp;wdEmbedCode=0" width="375px" height="530px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+            <h4>Ful Paper template for submissions</h4>
+            <a href="downloads/Full_Paper_template_for_submissions.docx" target="_blank" download><img style="width:30%;margin:2% 10% 5% 0;max-width:200px" src="images/wordfileicon.png" alt="wordfile" /></a>
+            <br>
+            <a href="downloads/Full_Paper_template_for_submissions.docx" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
           </div>
         </div>
       </div>
       <br />
       <br />
-      <h3>Conference Poster</h3>
+      <hr/>
+      <h3 style="border-left: solid 5px green;padding-left: 10px;">Conference Poster</h3>
       <br />
-      <div class="thumbnail_b text-center" style="max-width:320px">
+      <div class="thumbnail_b text-center" style="max-width:320px;margin-bottom:5%">
         <a id="banner-reg-btn" href="images/posters/conf_banner.jpg" target="_blank" download>Download</a>
         <a href="images/posters/conf_banner.jpg" target="_blank" download><img src="images/posters/conf_banner.jpg" style="width:100%" /></a>
       </div>
+      <a href="images/posters/conf_banner.jpg" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
     </div> <!-- /container -->
   </div>
   <?php include "components/footer.php" ?>

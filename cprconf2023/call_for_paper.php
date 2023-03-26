@@ -8,7 +8,7 @@
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<link rel="icon" href="images/cpr_smaller.jpg">
+	<link rel="icon" href="images/polypng.png">
 	<title>Call for paper - CPCECPR Conference 2023</title>
 	<!-- Font Aewsome CSS -->
 	<link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
@@ -52,6 +52,7 @@
             ) are jointly organizing a conference themed ‘Building and Sustaining the Momentum of Cross-border e-commerce for the Greater Bay Area’ to be held in Hong Kong on 11-12 August 2023 (Fri and Sat). In this conference, researchers and industry leaders will explore future plans and actions to cope with the new generation after the Covid-19 pandemic. This conference will attract academic, governmental, and industrial participants from all over the world with innovations and fresh partnerships. We warmly invite you to submit your abstracts and/or papers and participate in this enlightening conference.
             </p>
             <br />
+			<hr>
             <h2 style="color: #111177;">Submission & Topics</h2>
             <br />
             <p style="text-align: justify;color: #000000;">We are looking for papers focusing on the following topics related to e-commerce and Greater Bay Area business model, but not limited to:
@@ -80,6 +81,7 @@
             <p style="text-align: justify;color: #000000;"><b>The templates preparing for the abstract and full paper can be found on the website (Download section).</b>
             </p>
             <br />
+			<hr>
             <h2 style="color: #111177;">Key Dates</h2>
             <br />
 			<table class="table table-striped" style="max-width:600px">
@@ -117,6 +119,7 @@
             <p style="text-align: justify;color: #000000;"><span>Final papers will be considered for selection into the Conference Recommended </span><a href="https://www.mdpi.com/journal/economies/special_issues/079N5618N9" target="_blank">Journal Special Issue</a></p>
 			<br />
             <br />
+			<hr>
             <img src="images/economies_Logo.jpg" style="width:70%" />
             <h2 style="color: #111177;">Economies - E-Commerce and E-Supply Chain Management</h2>
             <br/>
