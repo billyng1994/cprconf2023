@@ -8,7 +8,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	<link rel="icon" href="images/polypng.png">
-	<title>CPCECPR Conference 2023</title>
+	<title>Conference of Building and Sustaining the Momentum of Cross-border E-commerce for the Greater Bay Area</title>
 	<!-- Font Aewsome CSS -->
 	<link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 	<!-- Bootstrap core CSS -->

@@ -9,7 +9,12 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	<link rel="icon" href="images/polypng.png">
-	<title>Speakers - CPCECPR Conference 2023</title>
+	<title>
+		<?php 
+			include "components/page_title.php";
+			echo "$speakerPage $confName";
+		?>
+	</title>
 	<!-- Font Aewsome CSS -->
 	<link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 	<!-- Bootstrap core CSS -->
@@ -115,7 +120,7 @@
 						<a href="#" target="_blank">Mr. SO Kai-man</a> <br>
 						Executive Chairman, Hong Kong Cross-Border E-Commerce Association
 					</p>
-					<blockquote class="speaker_topics" style="color: #FFCA00">TBC</blockquote>
+					<blockquote class="speaker_topics">How can we promote Hong Kong to become the Asian hub for green cross-border e-commerce in coordination with the Greater Bay Area?</blockquote>
 				</div>
 			</div>
 			<!-- Keynote Speakers - SECTION CONTENT - END -->

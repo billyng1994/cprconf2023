@@ -9,7 +9,12 @@
   <meta name="description" content="">
   <meta name="author" content="">
   <link rel="icon" href="images/polypng.png">
-  <title>Download - CPCECPR Conference 2023</title>
+  <title>
+		<?php 
+			include "components/page_title.php";
+			echo "$downloadPage$confName";
+		?>
+	</title>
   <!-- Font Aewsome CSS -->
   <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
   <!-- Bootstrap core CSS -->
