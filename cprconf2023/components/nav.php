@@ -28,7 +28,7 @@
                 <li id="speakers"><a href="speakers.php">SPEAKERS</a></li>
                 <li id="organisation"><a href="organisation.php">ORGANISING COMMITTEE</a></li>
                 <li id="download"><a href="download.php">DOWNLOAD</a></li>
-                <li id="contact-us"><a href="contact_us.php">CONTACT US</a></li>
+                <li id="contact_us"><a href="contact_us.php">CONTACT US</a></li>
                 <!-- <li id="sponsor"><a href="sponsor.php">SPONSORS</a></li> -->
                 <!-- <li id="technical_visit"><a href="technical_visit.php">TECHNICAL VISIT</a></li> -->
             </ul>
