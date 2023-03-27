@@ -87,8 +87,12 @@
         </div>        
         <p id="free_of_charge">The Conference is Free of Charge</p>
 
-        <iframe width="100%" height="900px" src="https://forms.gle/xUWin1ttpi8Wh9rm9" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
-        <p><i>Or <a href="https://forms.gle/xUWin1ttpi8Wh9rm9" target="_blank">click here</a> if your cannot see the registration form above</i></i></p>
+        <!-- <iframe id="reg_iframe" width="100%" height="900px" src="https://forms.gle/xUWin1ttpi8Wh9rm9" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe> -->
+        <object data="https://forms.gle/xUWin1ttpi8Wh9rm9" width="800" height="400">
+          <embed src="https://forms.gle/xUWin1ttpi8Wh9rm9" width="800" height="400">
+          Error: Embedded data could not be displayed.
+        </object>
+        <p><i>Or <a href="https://forms.gle/xUWin1ttpi8Wh9rm9" target="_blank">click here</a> if your cannot see the registration form above</i></p>
     </div>
   </div> <!-- /container -->
 
@@ -98,6 +102,7 @@
   ================================================== -->
   <!-- Placed at the end of the document so the pages load faster -->
   <?php include "components/fixedButton_n_scripts.php" ?>
+
 </body>
 
 </html>
