@@ -37,7 +37,7 @@
 
 <style>
   #conf_detail {
-    width: 60vw;
+    width: 70%;
     background-color: #f5f5f5;
     padding-left: 20px;
   }
@@ -52,6 +52,13 @@
     font-weight: bold;
     text-decoration: underline;
     text-align: center;
+  }
+
+  #reg_form {
+    width: 100%;
+  }
+  #reg_form > embed {
+    width: 100%;
   }
 </style>
 
@@ -88,8 +95,8 @@
         <p id="free_of_charge">The Conference is Free of Charge</p>
 
         <!-- <iframe id="reg_iframe" width="100%" height="900px" src="https://forms.gle/xUWin1ttpi8Wh9rm9" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe> -->
-        <object data="https://forms.gle/xUWin1ttpi8Wh9rm9" width="800" height="400">
-          <embed src="https://forms.gle/xUWin1ttpi8Wh9rm9" width="800" height="400">
+        <object id="reg_form" data="https://forms.gle/xUWin1ttpi8Wh9rm9" height="400">
+          <embed src="https://forms.gle/xUWin1ttpi8Wh9rm9"  height="400">
           Error: Embedded data could not be displayed.
         </object>
         <p><i>Or <a href="https://forms.gle/xUWin1ttpi8Wh9rm9" target="_blank">click here</a> if your cannot see the registration form above</i></p>
