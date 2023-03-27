@@ -37,7 +37,7 @@
 
 <style>
   #conf_detail {
-    width: 700px;
+    width: 60vw;
     background-color: #f5f5f5;
     padding-left: 20px;
   }
