@@ -231,7 +231,8 @@
           <tr>
             <td>
               <p>
-                <b>Dr. LEI Zhimei</b>
+                <a href="https://mef.kmust.edu.cn/info/1297/1479.htm"
+                  target="_blank">Dr. LEI Zhimei</a>
                   <br/>
                   <span>
                     Lecturer,</br> Faculty of Management and Economics, Kunming University of Science and Technology

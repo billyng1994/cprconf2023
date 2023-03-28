@@ -253,7 +253,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/Harman_Ng.jpg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
