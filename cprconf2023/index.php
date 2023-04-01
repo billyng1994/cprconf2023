@@ -47,19 +47,19 @@
 				The project is supported by the School of Professional Education and Executive Development of The Hong Kong Polytechnic University (PolyU SPEED), Beijing Normal University – Hong Kong Baptist University United International College, Macao Institute for Tourism Studies, Shenzhen University, The Hang Seng University of Hong Kong, The Hong Kong Polytechnic University, Technological and Higher Education Institute of Hong Kong, Change Adaptation Planning for Port, Transportation Infrastructure, and the Arctic, Hong Kong Sea Transport and Logistics Association, and Climate, and Institute of Seatransport.
 			</p>
 			<p style="text-align: justify;color: #000000;">
-				Through this collaboration, this conference will increase the awareness and support from the industries to share ways to facilitate regional economic development and encourage greater economic integration within the GBA via cross-border e-commerce business development. In response, the conference participants will explore case studies of global companies’ use of e-commerce, with analyses of the use and impact of e-commerce. The participants will also discuss the benefits of e-commerce, the implementation of e-commerce applications, market opportunities and winning strategies of e-commerce.
+				Through this collaboration, this conference will increase the awareness and support from the industries to share ways to facilitate regional economic development and encourage greater economic integration within the GBA via cross-border e-commerce business development. In response, the conference participants will explore case studies of global companies' use of e-commerce, with analyses of the use and impact of e-commerce. The participants will also discuss the benefits of e-commerce, the implementation of e-commerce applications, market opportunities and winning strategies of e-commerce.
 			</p>
 			<br>
 			<hr>
 			<h2 style="color: #111177;">Co-Organisers (in Alphabetical Order)</h2>
 			<br />
 			<ul style="font-size:16px">
-				<li>Beijing Normal University – Hong Kong Baptist University United International College, PR Chin</li>
+				<li>Beijing Normal University - Hong Kong Baptist University United International College, China</li>
 				<li>Climate Change Adaptation Planning for Port, Transportation Infrastructure, and the Arctic, Canada</li>
 				<li>Hong Kong Sea Transport and Logistics Association, Hong Kong</li>
 				<li>Institute of Seatransport, Hong Kong</li>
-				<li>Macao Institute for Tourism Studies, Maca</li>
-				<li>Shenzhen University, PR China</li>
+				<li>Macao Institute for Tourism Studies, Macao</li>
+				<li>Shenzhen University, China</li>
 				<li>Technological and Higher Education Institute of Hong Kong, Hong Kong</li>
 				<li>The Hang Seng University of Hong Kong, Hong Kong</li>
 				<li>The Hong Kong Polytechnic University, Hong Kong</li>
