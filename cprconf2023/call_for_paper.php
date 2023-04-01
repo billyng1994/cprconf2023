@@ -35,13 +35,6 @@
     <![endif]-->
 </head>
 
-<style>
-	#guest_editors_table td{
-		/* border: none; */
-	}
-
-</style>
-
 <body class="fontfamily">
     <?php include "components/header.php" ?>
 
