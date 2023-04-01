@@ -120,7 +120,8 @@
 			<hr>
             <img src="images/economies_Logo.jpg" style="width:70%" />
             <h2 style="color: #111177;">Economies - E-Commerce and E-Supply Chain Management</h2>
-            <br/>
+			<span><i><a href="https://www.mdpi.com/journal/economies/special_issues/079N5618N9" target="_blank">Click here</a>&nbsp;to checkout this special issue</i></span>
+            <br/><br/>
             <p style="text-align: justify;color: #000000;">High Visibility: indexed within Scopus, ESCI (Web of Science), EconLit, EconBiz, RePEc, and other databases. </p>
             <p style="text-align: justify;color: #000000;">Journal Rank: CiteScore - Q2 (Economics, Econometrics, and Finance (miscellaneous)) </p>
 
