@@ -243,7 +243,8 @@
           <tr>
             <td>
               <p>
-                <b>Dr. Maneerat KANRAK</b>
+                <a href="https://scholar.google.com/citations?user=JXHUGJAAAAAJ&hl=en"
+                  target="_blank">Dr. Maneerat KANRAK</a>
                   <br/>
                   <span>
                     Lecturer,</br> Faculty of Interdisciplinary Studies, Khon Kaen University

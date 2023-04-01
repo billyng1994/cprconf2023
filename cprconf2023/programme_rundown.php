@@ -35,6 +35,18 @@
     <![endif]-->
 </head>
 
+<style>
+    .center-text > tbody > tr *:not(div) {
+        padding: 18px 10px;
+    }
+    .center-text > tbody > tr > td {
+        text-align: center;
+        vertical-align: middle;
+        text-align:center;
+    }
+
+</style>
+<!-- [colspan="2"] -->
 <body class="fontfamily">
     <?php include "components/header.php" ?>
 
@@ -43,52 +55,54 @@
 		<div class="jumbotron">
 			<h2 style="color: #111177;">Programme</h2>
             <br/>
-			<table class="table table-bordered table-striped">
+
+			<!-- Day 1 Table -->
+			<table class="table table-bordered table-striped center-text">
                 <tbody>
                     <tr class="info">
                         <th colspan="4" style="text-align:left;padding: 25px;">
-                            <font size="5">11 August 2023 (Day 1)</font>
+                            <span style="font-size: 24px">11 August 2023 (Day 1)</span>
                         </th>
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>09:00</b></td>
+                        <td colspan="1" width="20%"><b>09:00</b></td>
                         <td colspan="4" style="text-align:center;padding: 15px 8px;">
                             <b>Registration at PolyU Hung Hom Bay Campus Lecturer Theatre</b>
                         </td>                                              
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>09:30 - 09:45</b></td>
+                        <td colspan="1" width="20%"><b>09:30 - 09:45</b></td>
                         <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8">
                             <b>Opening Remarks</b>
                         </td>
                     </tr>
                     
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>09:45 - 10:15</b></td>
+                        <td colspan="1" width="20%"><b>09:45 - 10:15</b></td>
                         <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8">
                             <b>Keynote Presentation (1)</b>
                         </td>                           
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>10:15 - 10:45</b></td>
+                        <td colspan="1" width="20%"><b>10:15 - 10:45</b></td>
                         <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8">
                             <b>Keynote Presentation (2)</b>
                         </td>                           
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>10:45 - 11:00</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8">
+                        <td colspan="1" width="20%"><b>10:45 - 11:00</b></td>
+                        <td colspan="4" >
                             <b>Coffee Break and Social Networking</b>
                         </td>  
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>11:00 - 11:45</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8;display: flex;justify-content: space-around;flex-wrap: wrap;">
+                        <td colspan="1" width="20%"><b>11:00 - 11:45</b></td>
+                        <td colspan="4" style="display: flex;justify-content: space-around;flex-wrap: wrap;">
                             <div style="width: 25%;display: block;text-align:center;padding: 15px 8px;min-width: 180px;">
                                 <b>Feature Session 1</b>
                                 <div>CCAPPTIA: Research Project Highlights and Future Trends</div>
@@ -109,17 +123,16 @@
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>11:45 - 13:15</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8">
+                        <td colspan="1" width="20%"><b>11:45 - 13:15</b></td>
+                        <td colspan="4">
                             <b>Conference Lunch</b>
                         </td>  
                     </tr>
 
-                
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>13:15 - 14:45</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8;display: flex;justify-content: space-around;flex-wrap: wrap;">
+                        <td colspan="1" width="20%"><b>13:15 - 14:45</b></td>
+                        <td colspan="4" style="display: flex;justify-content: space-around;flex-wrap: wrap;">
                             <div style="display: block;text-align:center;padding: 15px 8px;min-width: 180px;"><b>Paper Presentation Session 1</b></div>
                             <div style="display: block;text-align:center;padding: 15px 8px;min-width: 180px;"><b>Paper Presentation Session 2</b></div>
                             <div style="display: block;text-align:center;padding: 15px 8px;min-width: 180px;"><b>Industrial Session 1</b></div>
@@ -129,15 +142,15 @@
 
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>14:45 - 15:00</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8">
+                        <td colspan="1" width="20%"><b>14:45 - 15:00</b></td>
+                        <td colspan="4">
                             <b>Coffee Break and Social Networking</b>
                         </td>  
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>15:00 - 16:30</b></td>
-                        <td style="text-align:center;padding: 15px 8px;line-height: 1.8;display: flex;justify-content: space-around;flex-wrap: wrap;">
+                        <td colspan="1" width="20%"><b>15:00 - 16:30</b></td>
+                        <td style="display: flex;justify-content: space-around;flex-wrap: wrap;">
                             <div style="display: block;text-align:center;padding: 15px 8px;min-width: 180px;">
                                 <b>Paper Presentation Session 3</b>
                             </div>
@@ -151,8 +164,8 @@
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>16:30 - 16:45</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8">
+                        <td colspan="1" width="20%"><b>16:30 - 16:45</b></td>
+                        <td colspan="4">
                             <div>
                                 <b>Coffee Break and Social Networking</b>
                             </div>                            
@@ -160,8 +173,8 @@
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>16:45 - 18:15</b></td>
-                        <td style="text-align:center;padding: 15px 8px;line-height: 1.8;display: flex;justify-content: space-around;flex-wrap: wrap;">
+                        <td colspan="1" width="20%"><b>16:45 - 18:15</b></td>
+                        <td style="display: flex;justify-content: space-around;flex-wrap: wrap;">
                             <div style="display: block;text-align:center;padding: 15px 8px;min-width: 180px;">
                                 <b>Paper Presentation Session 5</b>
                             </div> 
@@ -176,47 +189,46 @@
                 </tbody>
             </table>
 
-
-					<!-- sessoion 2 -->
-            <table class="table table-bordered table-striped">
+			<!-- Day 2 Table -->
+            <table class="table table-bordered table-striped center-text">
                 <tbody>
                     <tr class="info">
                         <th colspan="4" style="text-align:left;padding: 25px;">
-                            <font size="5">12 August 2023 (Day 2)</font>
+                            <span style="font-size: 24px">12 August 2023 (Day 2)</span>
                         </th>
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>09:00</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;">
+                        <td colspan="1" width="20%"><b>09:00</b></td>
+                        <td colspan="4">
                             <b>Registration at PolyU Hung Hom Bay Campus Lecturer Theatre</b>
                         </td>                                              
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>9:30 - 10:00</b></td>
-                        <td colspan="4" colspan="16" style="text-align:center;padding: 15px 8px;line-height: 1.8">
+                        <td colspan="1" width="20%"><b>9:30 - 10:00</b></td>
+                        <td colspan="4" colspan="16">
                             <b>Keynote Presentation (1)</b>
                         </td>                           
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>10:00 - 10:30</b></td>
-                        <td colspan="4" colspan="16" style="text-align:center;padding: 15px 8px;line-height: 1.8">
+                        <td colspan="1" width="20%"><b>10:00 - 10:30</b></td>
+                        <td colspan="4" colspan="16">
                             <b>Keynote Presentation (2)</b>
                         </td>                           
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>10:30  10:45</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8">
+                        <td colspan="1" width="20%"><b>10:30  10:45</b></td>
+                        <td colspan="4">
                             <b>Coffee Break and Social Networking</b>
                         </td>  
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>10:45 -11:45</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8;display: flex;justify-content: space-around;flex-wrap: wrap;">
+                        <td colspan="1" width="20%"><b>10:45 -11:45</b></td>
+                        <td colspan="4" style="display: flex;justify-content: space-around;flex-wrap: wrap;">
                             <div style="width: 25%;display: block;text-align:center;padding: 15px 8px;min-width: 180px;">
                                 <b>Research Methodology Workshop 1:</b>
                                 <div>Interdisciplinary Research</div>
@@ -237,15 +249,15 @@
                     </tr>
                     
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>11:45 - 13:15</b></td>
-                        <td colspan="4" colspan="16" style="text-align:center;padding: 15px 8px;line-height: 1.8">
+                        <td colspan="1" width="20%"><b>11:45 - 13:15</b></td>
+                        <td colspan="4">
                             <b>Conference Lunch</b>
                         </td>  
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>13:15 - 14:45</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8;display: flex;justify-content: space-around;flex-wrap: wrap;">
+                        <td colspan="1" width="20%"><b>13:15 - 14:45</b></td>
+                        <td colspan="4" style="display: flex;justify-content: space-around;flex-wrap: wrap;">
                             <div style="display: block;text-align:center;padding: 15px 8px;min-width: 180px;">
                                 <b>Paper Presentation Session 7</b>
                             </div>
@@ -260,15 +272,15 @@
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>14:45 - 15:00</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8">
+                        <td colspan="1" width="20%"><b>14:45 - 15:00</b></td>
+                        <td colspan="4">
                             <b>Coffee Break and Social Networking</b>
                         </td>  
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>15:00 - 16:30</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8;display: flex;justify-content: space-around;flex-wrap: wrap;">
+                        <td colspan="1" width="20%"><b>15:00 - 16:30</b></td>
+                        <td colspan="4" style="display: flex;justify-content: space-around;flex-wrap: wrap;">
                             <div style="display: block;text-align:center;padding: 15px 8px;min-width: 180px;">
                                 <b>Paper Presentation Session 9</b>
                             </div>
@@ -282,15 +294,15 @@
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>16:30 - 16:45</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8">
+                        <td colspan="1" width="20%"><b>16:30 - 16:45</b></td>
+                        <td colspan="4">
                             <b>Coffee Break and Social Networking</b>
                         </td>  
                     </tr>
 
                     <tr>
-                        <td colspan="1" width="20%" style="text-align:center;padding: 15px 8px;"><b>16:45 - 17:15</b></td>
-                        <td colspan="4" style="text-align:center;padding: 15px 8px;line-height: 1.8">
+                        <td colspan="1" width="20%"><b>16:45 - 17:15</b></td>
+                        <td colspan="4">
                             <b>Closing Remarks and announcing the three best paper awards</b>
                         </td>  
                     </tr>
