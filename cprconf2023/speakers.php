@@ -131,7 +131,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Mr SHUM Wilson Kwok-fung</a> <br>
+						<a href="#" target="_blank">Mr. SHUM Wilson Kwok-fung</a> <br>
 						CEO/Co-Founder - SCALE InnoTech
 					</p>
 					<blockquote class="speaker_topics">Exploring Opportunities with Cross-Border E-commerce, Online to Offline Business Models</blockquote>
@@ -146,7 +146,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Dr TANG Yuk-ming</a> <br>
+						<a href="#" target="_blank">Dr. TANG Yuk-ming</a> <br>
 						Senior Teaching Fellow - The Hong Kong Polytechnic University
 					</p>
 					<blockquote class="speaker_topics">The Adoption of Blockchain for Cross-Border E-commerce in the Greater Bay Area</blockquote>
@@ -161,7 +161,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Dr HO George To-sum</a> <br>
+						<a href="#" target="_blank">Dr. HO George To-sum</a> <br>
 						Associate Professor - The Hang Seng University of Hong Kong
 					</p>
 					<blockquote class="speaker_topics">Trends of Business Intelligence for Cross-Border E-commerce in the Greater Bay Area</blockquote>
@@ -206,7 +206,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Mr LI Paul Ping Hung</a> <br>
+						<a href="#" target="_blank">Mr. LI Paul Ping Hung</a> <br>
 						President - Transland Shipping (1971) Group
 					</p>
 					<blockquote class="speaker_topics">Import Drugs into the Greater Bay Area: Cases on Cross-border E-commerce</blockquote>
@@ -221,7 +221,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Dr YANG Huijun</a> <br>
+						<a href="#" target="_blank">Dr. YANG Huijun</a> <br>
 						Assistant Professor - Macao Institute for Tourism Studies
 					</p>
 					<blockquote class="speaker_topics">Smart technology supports the development of cross-border consumption in the Catering Industry</blockquote>
@@ -236,7 +236,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Mr YEUNG John Kunwoon</a> <br>
+						<a href="#" target="_blank">Mr. YEUNG John Kunwoon</a> <br>
 						Director, Bookschwa Technologies
 					</p>
 					<blockquote class="speaker_topics">Twin Engine of Empowering Cross-Border E-commerce Platforms: The Applications of Cloud Computing and Artificial Intelligence (AI)</blockquote>
@@ -251,7 +251,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Mr NG Harman Wai-chung</a> <br>
+						<a href="#" target="_blank">Mr. NG Harman Wai-chung</a> <br>
 						Vice Chairman, The Federation of Greater Bay International Logistics and Supply Chain Industry
 					</p>
 					<blockquote class="speaker_topics">The Regional Comprehensive Economic Partnership (RCEP) and China Import/Export Trade Facilitation</blockquote>
@@ -266,7 +266,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Ms SIO Sandy Hou-in</a> <br>
+						<a href="#" target="_blank">Ms. SIO Sandy Hou-in</a> <br>
 						Vice President, Supervisory Council of the Macau Institute for Corporate Social Responsibility in Greater China
 					</p>
 					<blockquote class="speaker_topics">Sustainability and Diversification in Cross-border E-commerce for the Greater Bay Area</blockquote>
@@ -296,7 +296,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Ms WONG Ling</a> <br>
+						<a href="#" target="_blank">Ms. WONG Ling</a> <br>
 						Founder, 100degreec & President of Rotary Club of Smart Hong Kong
 					</p>
 					<blockquote class="speaker_topics">The Effectiveness of Omni channel for Cross-border E-commerce in the Greater Bay Area</blockquote>
@@ -311,7 +311,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Mr HUNG Alex Man-ching</a> <br>
+						<a href="#" target="_blank">Mr. HUNG Alex Man-ching</a> <br>
 						Managing Director of Crossover Green Sustainability for Better International. Co. Ltd. & Charter President of Rotary Club of Peninsula East
 					</p>
 					<blockquote class="speaker_topics">Cross-border E-commerce in the Greater Bay Area</blockquote>
@@ -349,24 +349,6 @@
 			</div>
 			<!-- Keynote Speakers - SECTION CONTENT - END -->
 
-			<!-- Reserved for reference -->
-			<!-- <div id="Anand_VYAS"></div>
-			<div class="row">
-				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
-					<div class="thumbnail" style="box-shadow:1px 1px 1px #888888;">
-						<img src="images/speakers/Anand_VYAS.jpg" style="width:100%">
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
-					<p style="color: #214869;"><a href="https://directory.speed-polyu.edu.hk/staff-directory/en/speed/spd-speed-acadiv-aacadiv/anand-vyas" target="_blank">Dr Anand VYAS</a></p>
-					<h4 style="line-height: 1.2">Lecturer, Division of Science, Engineering and Health Studies, CPCE
-					</h4>
-				</div>
-			</div>
-			<p><i>Providing Research Experience to Undergraduate Students in the Latest Technological Environment for Professional Development</i></p>
-			<p style="text-align: justify;">
-				Dr A. Vyas received his Ph.D. in Physics and has worked in various research and teaching positions. His current research interest is in the area of effective teaching and learning. He also serves the professional community in the capacity of a reviewer for many scientific journals and is also an editorial board member of several scientific journals.
-			</p> -->
 		</div>
 	</div> <!-- /container -->
 	<?php include "components/footer.php" ?>
