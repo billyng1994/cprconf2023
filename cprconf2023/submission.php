@@ -25,14 +25,7 @@
 	<link href="css/navbar-fixed-top.css" rel="stylesheet">
 	<!-- Overriding css that is literally copy pasted for the entire site -->
 	<link href="css/main-override.css" rel="stylesheet">
-	<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-	<!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
 	<script src="js/ie-emulation-modes-warning.js"></script>
-	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-	<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 </head>
 
 <body class="fontfamily">
@@ -115,6 +108,8 @@
 			<img src="images/economies_Logo.jpg" style="width:70%" />
 			<br/>
 			<h2 style="color: #111177;">Economies – E-Commerce and E-Supply Chain Managemen</h2>
+			<span><i><a href="https://www.mdpi.com/journal/economies/special_issues/079N5618N9" target="_blank">Click here</a>&nbsp;to checkout this special issue</i></span>
+			<br/>
 			<br/>
 			<h3 style="color: #111177;">High Visibility: </h3>
 			<p style="color: #000000;">indexed within Scopus, ESCI (Web of Science), EconLit, EconBiz, RePEc, and other databases.</p>

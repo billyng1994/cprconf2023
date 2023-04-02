@@ -53,6 +53,12 @@ p,b {
     .navbar-default .navbar-nav > .active > a:hover{
       transform: translate(0px, 0px);
     }
+
+    .navbar-nav {
+      display:flex !important;
+      flex-wrap: wrap;
+      align-items: center;
+    }
   }
 
   .navbar-default .navbar-nav > .active > a{
@@ -87,6 +93,12 @@ p,b {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
     background-color: #b6b6b6;
     background-image: none;
+  }
+
+  @media only screen and (min-width: 1200px) {
+    .navbtn{
+      max-width: 140px;
+    }
   }
   
   div.background {
@@ -254,7 +266,7 @@ p,b {
 
     .logo {
       max-height: 40px;
-      margin: 1.5%;
+      margin: 10px;
       zoom: 70%;
     }
   }    
@@ -262,7 +274,7 @@ p,b {
   @media only screen and (min-width: 600px) {
     .logo {
       max-height: 55px;
-      margin: 1.5%
+      margin: 10px;
     }
   }    
   

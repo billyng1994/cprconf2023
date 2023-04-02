@@ -25,14 +25,7 @@
 	<link href="css/navbar-fixed-top.css" rel="stylesheet">
 	<!-- Overriding css that is literally copy pasted for the entire site -->
 	<link href="css/main-override.css" rel="stylesheet">
-	<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-	<!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
 	<script src="js/ie-emulation-modes-warning.js"></script>
-	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-	<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 </head>
 
 <style>
@@ -67,7 +60,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/Wang_Peng.jpeg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -82,7 +75,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/Sunny_Ho.jpeg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -112,7 +105,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/So_Kai_Man.jpeg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -148,7 +141,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/YukMingTang.jpg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -163,7 +156,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/HO_To_Sum.jpg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -178,7 +171,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/Gavin_Chau.jpg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -193,7 +186,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/Michelle.jpeg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -208,7 +201,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/Paul_Li.jpeg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -223,7 +216,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/Yang_Huijun.jpeg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -283,7 +276,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/ZHANG_Ruopiao.jpg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -343,7 +336,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/Kwok_Man_Ki.jpeg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -351,7 +344,7 @@
 						<a href="#" target="_blank">Mr. KWOK Man-ki Philip Kino</a> <br>
 						Founder & CEO of GPEC Holding Limited; President of Hong Kong Cross-Border E-commerce Association
 					</p>
-					<blockquote class="speaker_topics"  style="color: #FFCA00">TBC</blockquote>
+					<blockquote class="speaker_topics">Cross-border E-Commerce Payment Security and Fraud Prevention</blockquote>
 				</div>
 			</div>
 			<!-- Keynote Speakers - SECTION CONTENT - END -->

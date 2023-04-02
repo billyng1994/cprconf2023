@@ -14,8 +14,8 @@
 
         <div id="navbar" class="navbar-collapse collapse navbar-inner">
             <ul class="nav navbar-nav">
-                <li id="index"><a href="index.php">HOME</a></li>
-                <li class="nav-item dropdown" id="programme">
+                <li class="navbtn" id="index"><a href="index.php">HOME</a></li>
+                <li class="nav-item dropdown navbtn" id="programme">
                     <a class="nav-link dropdown-toggle" href="#" id="programme-dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         PROGRAMME
                     </a>
@@ -25,10 +25,12 @@
                         <li id="submission" style="display: flex;justify-content: center;"><a class="nav-link dropdown-item" href="submission.php">SUBMISSION</a></li>
                     </ul>
                 </li>
-                <li id="speakers"><a href="speakers.php">SPEAKERS</a></li>
-                <li id="organisation"><a href="organisation.php">ORGANISING COMMITTEE</a></li>
-                <li id="download"><a href="download.php">DOWNLOAD</a></li>
-                <li id="contact_us"><a href="contact_us.php">CONTACT US</a></li>
+                <li class="navbtn" id="speakers"><a href="speakers.php">SPEAKERS</a></li>
+                <li class="navbtn" id="organisation"><a href="organisation.php">ORGANISING COMMITTEE</a></li>
+                <li class="navbtn" id="register"><a href="register.php">REGISTRATION</a></li>
+                <li class="navbtn" id="download"><a href="download.php">DOWNLOAD</a></li>
+                <li class="navbtn" id="site_visit"><a href="site_visit.php">SITE VISIT</a></li>
+                <li class="navbtn" id="contact_us"><a href="contact_us.php">CONTACT US</a></li>
                 <!-- <li id="sponsor"><a href="sponsor.php">SPONSORS</a></li> -->
                 <!-- <li id="technical_visit"><a href="technical_visit.php">TECHNICAL VISIT</a></li> -->
             </ul>

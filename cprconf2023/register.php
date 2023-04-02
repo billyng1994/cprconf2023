@@ -25,14 +25,7 @@
   <link href="css/navbar-fixed-top.css" rel="stylesheet">
   <!-- Overriding css that is literally copy pasted for the entire site -->
   <link href="css/main-override.css" rel="stylesheet">
-  <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-  <!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
   <script src="js/ie-emulation-modes-warning.js"></script>
-  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-  <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 </head>
 
 <style>
@@ -59,6 +52,17 @@
   }
   #reg_form > embed {
     width: 100%;
+  }
+
+  #hhbmap{
+    width:70%;
+    margin: 0px auto;
+  }
+  @media only screen and (max-width: 900px) {
+    #hhbmap {
+        width:100%;
+        margin: 0px auto;
+    }
   }
 </style>
 
@@ -100,6 +104,30 @@
           Error: Embedded data could not be displayed.
         </object>
         <p><i>Or <a href="https://forms.gle/xUWin1ttpi8Wh9rm9" target="_blank">click here</a> if your cannot see the registration form above</i></p>
+        <br/>
+        <h2 style="color: #111177;">Route/Map to Hung Hom Bay Campus:</h2>
+        <img id="hhbmap" src="images/HHB_Map.jpg" alt="HHB map" />
+        <br/>
+        <p>Address: PolyU Hung Hom Bay Campus 8 Hung Lok Road, Hung Hom, Kowloon, Hong Kong</p>
+        <table class="table table-striped">
+            <tbody>
+                <tr>
+                    <td colspan="2"><p style="padding:0;margin:0"><b>Public Transport</b></p></td>
+                </tr>
+                <tr>
+                    <td><p style="padding:0;margin:0">MTR: </p></td>
+                    <td><p style="padding:0;margin:0">Hung Hom Station (Exit B1) or Whampoa Station (Exit B)</p></td>
+                </tr>
+                <tr>
+                    <td><p style="padding:0;margin:0">Bus: </p></td>
+                    <td><p style="padding:0;margin:0">3B, 5C, 7B, 8A, 11X, 11K, 12A, 15, 21, 30X, 85X, 115, 268B, 269B, 297, 796X</td>
+                </tr>
+                <tr>
+                    <td><p style="padding:0;margin:0">Green Mini-bus: </p></td>
+                    <td><p style="padding:0;margin:0">6A, 13, 26, 26A</p></td>
+                </tr>
+            </tbody>
+        </table>
     </div>
   </div> <!-- /container -->
 
