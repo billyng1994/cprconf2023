@@ -267,7 +267,7 @@
 
       <!-- HEADER: Secretary -->
       <h4 style="color: #1d1da3;">Conference Secretariat</h4>
-      <p>Ms. Chung Chui Ying, Cherry</p>
+      <p>Ms. CHUNG Chui Ying, Cherry</p>
 
       <br>
 

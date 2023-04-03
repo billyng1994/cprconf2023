@@ -60,7 +60,7 @@
         <div>
           <h4><u><strong>Contact the Conference Secretary</strong></u></h4>
           <p>
-            <span>Miss Chung Chui Ying, Cherry</span> <br>
+            <span>Ms. CHUNG Chui Ying, Cherry</span> <br>
             <span>Tel: +852 3746 0732</span> <br>
             <span>Email: <a href="mailto:chuiying.chung@speed-polyu.edu.hk">chuiying.chung@speed-polyu.edu.hk</a></span> <br>
           </p>
