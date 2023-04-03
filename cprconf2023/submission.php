@@ -87,16 +87,16 @@
 			<p style="color: #000000;">We are looking for papers focusing on the following topics related to e-commerce and Greater Bay Area business model, but not limited to:</p>
 			<ul style="font-size:16px">
 				<li>e-commerce operation management</li>
-				<li>Customs supervision and e-commerc</li>
+				<li>Customs supervision and e-commerce</li>
 				<li>Commercial systems</li>
-				<li>Cross-border e-commerc</li>
+				<li>Cross-border e-commerce</li>
 				<li>Brand new e-business models</li>
-				<li>E-business model changes brought about by the Covid-19 pandemic</li>
+				<li>E-business model changes brought about by the COVID-19 pandemic</li>
 				<li>Port and maritime digitalization</li>
 				<li>e-supply chain</li>
 				<li>Transaction model</li>
 				<li>Market opportunities for e-commerce</li>
-				<li>Winning strategies for e-commerc</li>
+				<li>Winning strategies for e-commerce</li>
 				<li>Blockchain-related technologies</li>
 				<li>Education for GBA cross-border e-commence development</li>
 			</ul>
@@ -107,7 +107,7 @@
 			<hr>
 			<img src="images/economies_Logo.jpg" style="width:70%" />
 			<br/>
-			<h2 style="color: #111177;">Economies – E-Commerce and E-Supply Chain Managemen</h2>
+			<h2 style="color: #111177;">Economies - E-Commerce and E-Supply Chain Management</h2>
 			<span><i><a href="https://www.mdpi.com/journal/economies/special_issues/079N5618N9" target="_blank">Click here</a>&nbsp;to checkout this special issue</i></span>
 			<br/>
 			<br/>
