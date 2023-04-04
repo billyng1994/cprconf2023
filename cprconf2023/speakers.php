@@ -90,15 +90,15 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/Tse_Hing_Ming.jpg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Dr. LIU Elvis S.</a> <br>
-						Expert Engineer - Tencent
+						<a href="#" target="_blank">Mr. Tse Hing Min, Andy</a> <br>
+						LL.B., Partner, HK & GBA Lawyer - SUN LAWYERS
 					</p>
-					<blockquote class="speaker_topics">Leveraging One Country, Two Systems: The Strategic Role of Hong Kong Benefitting from Greater Bay Area Opportunities</blockquote>
+					<blockquote class="speaker_topics">Contemporary Legal Issues in the Greater Bay Area E-Commerce</blockquote>
 				</div>
 			</div>
 
@@ -126,7 +126,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/Wilson_Shum.jpeg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
