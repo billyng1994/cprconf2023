@@ -11,7 +11,7 @@
 	<link rel="icon" href="images/polypng.png">
 	<title>Conference of Building and Sustaining the Momentum of Cross-border E-commerce for the Greater Bay Area</title>
 	<!-- Font Aewsome CSS -->
-	<link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 	<!-- Bootstrap core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->

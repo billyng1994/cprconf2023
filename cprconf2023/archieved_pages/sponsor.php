@@ -11,7 +11,7 @@
 	<link rel="icon" href="images/polypng.png">
 	<title>Sponsor - CPCECPR Conference 2023</title>
 	<!-- Font Aewsome CSS -->
-	<link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 	<!-- Bootstrap core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
@@ -91,7 +91,7 @@
 			style="border-radius: 8px; padding: 10px 20px; background-color: #0F4C81; color: white; font-size: 18px">Register
 			Now</button></a>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
+	<!-- <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script> -->
 	<script src="js/bootstrap.min.js"></script>
 	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 	<script src="js/ie10-viewport-bug-workaround.js"></script>
