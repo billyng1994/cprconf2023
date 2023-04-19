@@ -321,7 +321,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/Tannie_Sze.jpeg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -345,6 +345,21 @@
 						Founder & CEO of GPEC Holding Limited; President of Hong Kong Cross-Border E-commerce Association
 					</p>
 					<blockquote class="speaker_topics">Cross-border E-Commerce Payment Security and Fraud Prevention</blockquote>
+				</div>
+			</div>
+
+			<div class="row speaker">
+				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
+					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
+						<img src="images/speakers/John_Yu.jpg" style="width:100%">
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
+					<p>
+						<a href="#" target="_blank">Mr. YU Shing Ching John</a> <br>
+						Professional Member of Hong Kong Sea Transport and Logistics Association
+					</p>
+					<blockquote class="speaker_topics">Post Covid market dynamics in cross border eCommerce</blockquote>
 				</div>
 			</div>
 			<!-- Keynote Speakers - SECTION CONTENT - END -->
