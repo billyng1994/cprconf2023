@@ -224,7 +224,7 @@
 						<a href="#" target="_blank">Dr. YANG Huijun</a> <br>
 						Assistant Professor - Macao Institute for Tourism Studies
 					</p>
-					<blockquote class="speaker_topics">Smart technology supports the development of cross-border consumption in the Catering Industry</blockquote>
+					<blockquote class="speaker_topics">Smart Technology Supports the Development of Cross-border Consumption in the Catering Industry</blockquote>
 				</div>
 			</div>
 
@@ -359,7 +359,7 @@
 						<a href="#" target="_blank">Mr. YU Shing Ching John</a> <br>
 						Professional Member of Hong Kong Sea Transport and Logistics Association
 					</p>
-					<blockquote class="speaker_topics">Post Covid market dynamics in cross border eCommerce</blockquote>
+					<blockquote class="speaker_topics">Post COVID Market Dynamics in Cross-border E-commerce</blockquote>
 				</div>
 			</div>
 			<!-- Keynote Speakers - SECTION CONTENT - END -->
