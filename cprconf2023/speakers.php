@@ -356,8 +356,8 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Mr. YU Shing Ching John</a> <br>
-						Professional Member of Hong Kong Sea Transport and Logistics Association
+						<a href="#" target="_blank">Mr. YU Shing Chung John</a> <br>
+						Professional Member of Hong Kong Sea Transport and Logistics Association (HKSTLA); Head of eCommerce - South China and Hong Kong at Crane Worldwide Logistics
 					</p>
 					<blockquote class="speaker_topics">Post COVID Market Dynamics in Cross-border E-commerce</blockquote>
 				</div>
