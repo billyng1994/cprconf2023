@@ -9,17 +9,17 @@
                 </div>
 
                 <div class="col" style="display:flex">
-                <img src="images/HSUHK_Logo.jpg" class="img-responsive logo" alt="HSUHK">
-                <img src="images/THEi_Logo.png" class="img-responsive logo" alt="THEi">
+                    <img src="images/HSUHK_Logo.jpg" class="img-responsive logo" alt="HSUHK">
+                    <img src="images/THEi_Logo.png" class="img-responsive logo" alt="THEi">
                 </div>
                 <div class="col" style="display:flex">
-                <img src="images/SZU_Logo.jpeg" class="img-responsive logo" alt="SZU">
-                <img src="images/IFTM_CI_Logo.jpg" class="img-responsive logo" alt="IFTM_CI">
+                    <img src="images/SZU_Logo.jpeg" class="img-responsive logo" alt="SZU">
+                    <img src="images/IFTM_CI_Logo.jpg" class="img-responsive logo" alt="IFTM_CI">
                 </div>
 
                 <div class="col" style="display:flex">
-                <img src="images/UIC-logo.jpg" class="img-responsive logo" alt="UIC">
-                <img src="images/CCAPPTIA_Logo.jpeg" class="img-responsive logo" alt="CCAPPTIA">
+                    <img src="images/UIC-logo.jpg" class="img-responsive logo" alt="UIC">
+                    <img src="images/CCAPPTIA_Logo.jpeg" class="img-responsive logo" alt="CCAPPTIA">
                 </div>
                 <div class="col" style="display:flex">
                     <img src="images/IOS_Logo.jpg" class="img-responsive logo" alt="IOS">

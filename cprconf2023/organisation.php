@@ -40,10 +40,16 @@
     vertical-align: middle;
     border: none;
   }
+  #supporting_org_table > tbody > tr{
+    border-bottom: 1px solid #ccc;
+  }
+  #supporting_org_table > tbody > tr:last-child{
+    border-bottom: none;
+  }
   #supporting_org_table > tbody > tr > td span{
-    font-size: 18px;
+    font-size: 16px;
     font-weight: bold;
-  } 
+  }
 </style>
 
 <body class="fontfamily">
@@ -271,6 +277,8 @@
 
       <br>
 
+
+      <!-- Supporting Organizations - Start -->
       <h3 style="background-color: #fcfcfc;color: #111177;">Supporting Organizations</h3>
       <table id="supporting_org_table" class="table">
         <tbody>
@@ -298,7 +306,6 @@
               </span>
             </td>
             <td class="col-md-1 text-center">
-
               <a 
                   href="https://www.ccapptia.com/"
                   target="_blank">
@@ -308,6 +315,90 @@
                 <span>
                   Climate Change Adaptation Planning for Port, Transportation Infrastructure, and the Arctic
                 </span>
+            </td>
+            <td class="col-md-1 text-center">
+              <a
+                  href="https://www.cbea.com.hk/?lang=en"
+                  target="_blank">
+                    <img src="images/CBEA_Logo.png" alt="" srcset="" style="width: 70%; height:auto;">
+                </a>
+                <br/><br/>
+                <span>
+                  Hong Kong Cross-Border E-commerce Association
+                </span>
+            </td>
+           
+          </tr>
+
+          <tr>
+            <td class="col-md-1 text-center">
+                <a 
+                  href="http://www.filsci.org/"
+                  target="_blank">
+                  <img src="images/FGBILSCI_Logo.png" alt="" srcset="" style="width: 100%; height:auto;">
+                </a>
+                <br/><br/>
+                <span>
+                  The Federation of Greater Bay International Logistics and Supply Chain Indstry
+                </span>
+            </td>
+            <td class="col-md-1 text-center">
+              <a 
+                href="https://www.hkie.org.hk/en/quali/discipline_detail/15/"
+                target="_blank">
+                  <img src="images/HKIE_LED_Logo.png" alt="" srcset="" style="width: 70%; height:auto;">
+              </a>
+              <br/><br/>
+              <span>
+                The Hong Kong Institution of Engineers (Logistics & Transportation Division)
+              </span>
+            </td>
+            <td class="col-md-1 text-center">
+              <a 
+                  href="https://www.hkmaritimemuseum.org/"
+                  target="_blank">
+                    <img src="images/HKMM.jpg" alt="" srcset="" style="width: 70%; height:auto;">
+                </a>
+                <br/><br/>
+                <span>
+                  Hong Kong Maritime Museum
+                </span>
+            </td>
+            <td class="col-md-1 text-center">
+              <a
+                  href="https://lms-icms.polyu.edu.hk/"
+                  target="_blank">
+                    <img src="images/ICMS_Logo.png" alt="" srcset="" style="width: 70%; height:auto;">
+                </a>
+                <br/><br/>
+                <span>
+                  CY Tung International Centre for Maritime Studies
+                </span>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="col-md-1 text-center">
+                <a 
+                  href="https://prisc.hsu.edu.hk/"
+                  target="_blank">
+                  <img src="images/PRISC Logo.png" alt="" srcset="" style="width: 100%; height:auto;">
+                </a>
+                <br/><br/>
+                <span>
+                  Policy Research Institute of Global Supply Chain (The Hang Seng University of Hong Kong)
+                </span>
+            </td>
+            <td class="col-md-1 text-center">
+              <a 
+                href="https://rcgb.speed-polyu.edu.hk/"
+                target="_blank">
+                  <img src="images/RCGB_Logo.png" alt="" srcset="" style="width: 70%; height:auto;">
+              </a>
+              <br/><br/>
+              <span>
+                Research Centre for Green Business
+              </span>
             </td>
           </tr>
         </tbody>
