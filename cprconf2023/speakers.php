@@ -356,10 +356,25 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Mr. YU Shing Chung John</a> <br>
+						<a href="#" target="_blank">Mr. YU Shing Chung, John</a> <br>
 						Professional Member of Hong Kong Sea Transport and Logistics Association (HKSTLA); Head of eCommerce - South China and Hong Kong at Crane Worldwide Logistics
 					</p>
 					<blockquote class="speaker_topics">Post COVID Market Dynamics in Cross-border E-commerce</blockquote>
+				</div>
+			</div>
+
+			<div class="row speaker">
+				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
+					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
+						<img src="images/speakers/Wong_Weng_Chou.jpg" style="width:100%">
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
+					<p>
+						<a href="https://www.must.edu.mo/en/fhtm/staff/wongwengchou" target="_blank">Dr. Wong Weng Chou, Jose</a> <br>
+						Associate Professor, Macau University of Science and Technology
+					</p>
+					<blockquote class="speaker_topics">Information Technology of E-commerce in hospitality and tourism industry: development and trends</blockquote>
 				</div>
 			</div>
 			<!-- Keynote Speakers - SECTION CONTENT - END -->
