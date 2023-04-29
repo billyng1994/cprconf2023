@@ -25,6 +25,25 @@
                     <img src="images/IOS_Logo.jpg" class="img-responsive logo" alt="IOS">
                     <img src="images/HKSTLA_Logo.png" class="img-responsive logo" alt="HKSTLA">
                 </div>
+
+                <div class="col" style="display:flex">
+                    <img src="images/PRISC Logo.png" class="img-responsive logo" alt="PRISC">
+                    <img src="images/FGBILSCI_Logo.png" class="img-responsive logo" alt="FGBILSCI">
+                </div>
+                
+                <div class="col" style="display:flex">
+                    <img src="images/HKIE_LED_Logo.png" class="img-responsive logo" alt="HKIE_LED">
+                    <img src="images/HKMM.jpg" class="img-responsive logo" alt="HKMM">
+                </div>
+
+                <div class="col" style="display:flex">
+                    <img src="images/ICMS_Logo.png" class="img-responsive logo" alt="ICMS">
+                    <img src="images/RCGB_Logo.png" class="img-responsive logo" alt="RCGB">
+                </div>
+
+                <div class="col" style="display:flex">
+                    <img src="images/CBEA_Logo.png" class="img-responsive logo" alt="CBEA">
+                </div>
             </div>
         </div>
     </div>
