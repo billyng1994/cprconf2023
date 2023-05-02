@@ -267,15 +267,14 @@ p,b {
     .logo {
       max-height: 40px;
       margin: 10px;
-      zoom: 70%;
+      zoom: 60%; 
     }
   }
 
-  @media only screen and (min-width: 768px) {
+  @media only screen and (min-width: 425px) {
     .logo {
-      max-height: 40px;
+      max-height: 35px;
       margin: 10px;
-      zoom: 70%;
     }
   }
 
