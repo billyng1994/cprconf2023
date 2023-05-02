@@ -11,6 +11,8 @@
                 <img src="images/IFTM_CI_Logo.jpg" class="img-responsive logo" alt="IFTM_CI">
                 <img src="images/UIC-logo.jpg" class="img-responsive logo" alt="UIC">
                 <img src="images/CCAPPTIA_Logo.jpeg" class="img-responsive logo" alt="CCAPPTIA">
+                <img src="images/IOS_Logo.jpg" class="img-responsive logo" alt="IOS">
+                <img src="images/HKSTLA_Logo.png" class="img-responsive logo" alt="HKSTLA">
                 <img src="images/PRISC Logo.png" class="img-responsive logo" alt="PRISC">
                 <img src="images/FGBILSCI_Logo.png" class="img-responsive logo" alt="FGBILSCI">
                 <img src="images/HKIE_LED_Logo.png" class="img-responsive logo" alt="HKIE_LED">
