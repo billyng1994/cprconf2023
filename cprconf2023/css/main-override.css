@@ -269,14 +269,17 @@ p,b {
       margin: 10px;
       zoom: 70%;
     }
-  }    
+  }
 
   @media only screen and (min-width: 768px) {
     .logo {
-      max-height: 55px;
+      max-height: 40px;
       margin: 10px;
+      zoom: 70%;
     }
-  }    
+  }
+
+
   
   #fixedbutton {
     display: flex;
