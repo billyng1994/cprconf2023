@@ -400,6 +400,17 @@
                 Research Centre for Green Business
               </span>
             </td>
+            <td class="col-md-1 text-center">
+              <a 
+                href="https://rcgb.speed-polyu.edu.hk/"
+                target="_blank">
+                  <img src="images/CMI_Logo.jpg" alt="" srcset="" style="width: 70%; height:auto;">
+              </a>
+              <br/><br/>
+              <span>
+              China Maritime Institute
+              </span>
+            </td>
           </tr>
         </tbody>
       </table>

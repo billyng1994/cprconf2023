@@ -20,7 +20,7 @@
                 <img src="images/ICMS_Logo.png" class="img-responsive logo" alt="ICMS">
                 <img src="images/RCGB_Logo.png" class="img-responsive logo" alt="RCGB">
                 <img src="images/CBEA_Logo.png" class="img-responsive logo" alt="CBEA">
-
+                <img src="images/CMI_Logo.jpg" class="img-responsive logo" alt="CBEA">
             
                 <!-- <div class="col" style="display:flex">
                     <img src="images/poly.jpg" class="img-responsive logo" alt="PolyU">
