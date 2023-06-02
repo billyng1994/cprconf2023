@@ -1,68 +1,61 @@
 <header>
-
     <div class="container" id="banner" style="width:100%">
         <div class="row" style="position: relative;">
-            <div class="" style="display:flex;width:100%;justify-content:space-around;flex-wrap:wrap">
-                <img src="images/poly.jpg" class="img-responsive logo" alt="PolyU">
-                <img src="images/speed.jpg" class="img-responsive logo" alt="speed">
-                <img src="images/HSUHK_Logo.jpg" class="img-responsive logo" alt="HSUHK">
-                <img src="images/THEi_Logo.png" class="img-responsive logo" alt="THEi">
-                <img src="images/SZU_Logo.jpeg" class="img-responsive logo" alt="SZU">
-                <img src="images/IFTM_CI_Logo.jpg" class="img-responsive logo" alt="IFTM_CI">
-                <img src="images/UIC-logo.jpg" class="img-responsive logo" alt="UIC">
-                <img src="images/CCAPPTIA_Logo.jpeg" class="img-responsive logo" alt="CCAPPTIA">
-                <img src="images/IOS_Logo.jpg" class="img-responsive logo" alt="IOS">
-                <img src="images/HKSTLA_Logo.png" class="img-responsive logo" alt="HKSTLA">
-                <img src="images/PRISC Logo.png" class="img-responsive logo" alt="PRISC">
-                <img src="images/FGBILSCI_Logo.png" class="img-responsive logo" alt="FGBILSCI">
-                <img src="images/HKIE_LED_Logo.png" class="img-responsive logo" alt="HKIE_LED">
-                <img src="images/HKMM.jpg" class="img-responsive logo" alt="HKMM">
-                <img src="images/ICMS_Logo.png" class="img-responsive logo" alt="ICMS">
-                <img src="images/RCGB_Logo.png" class="img-responsive logo" alt="RCGB">
-                <img src="images/CBEA_Logo.png" class="img-responsive logo" alt="CBEA">
-                <img src="images/CMI_Logo.jpg" class="img-responsive logo" alt="CBEA">
-            
-                <!-- <div class="col" style="display:flex">
+            <div class="banner-grid">
+                <div class="div1">
                     <img src="images/poly.jpg" class="img-responsive logo" alt="PolyU">
+                </div>
+                <div class="div2">
                     <img src="images/speed.jpg" class="img-responsive logo" alt="speed">
                 </div>
-
-                <div class="col" style="display:flex">
+                <div class="div3">
                     <img src="images/HSUHK_Logo.jpg" class="img-responsive logo" alt="HSUHK">
+                </div>
+                <div class="div4">
                     <img src="images/THEi_Logo.png" class="img-responsive logo" alt="THEi">
                 </div>
-                <div class="col" style="display:flex">
+                <div class="div5">
                     <img src="images/SZU_Logo.jpeg" class="img-responsive logo" alt="SZU">
+                </div>
+                <div class="div6">
                     <img src="images/IFTM_CI_Logo.jpg" class="img-responsive logo" alt="IFTM_CI">
                 </div>
-
-                <div class="col" style="display:flex">
+                <div class="div7">
                     <img src="images/UIC-logo.jpg" class="img-responsive logo" alt="UIC">
+                </div>
+                <div class="div8">
                     <img src="images/CCAPPTIA_Logo.jpeg" class="img-responsive logo" alt="CCAPPTIA">
                 </div>
-                <div class="col" style="display:flex">
+                <div class="div9">
                     <img src="images/IOS_Logo.jpg" class="img-responsive logo" alt="IOS">
+                </div>
+                <div class="div10">
                     <img src="images/HKSTLA_Logo.png" class="img-responsive logo" alt="HKSTLA">
                 </div>
-
-                <div class="col" style="display:flex">
+                <div class="div11">
                     <img src="images/PRISC Logo.png" class="img-responsive logo" alt="PRISC">
+                </div>
+                <div class="div12">
                     <img src="images/FGBILSCI_Logo.png" class="img-responsive logo" alt="FGBILSCI">
                 </div>
-                
-                <div class="col" style="display:flex">
+                <div class="div13">
                     <img src="images/HKIE_LED_Logo.png" class="img-responsive logo" alt="HKIE_LED">
+                </div>
+                <div class="div14">
                     <img src="images/HKMM.jpg" class="img-responsive logo" alt="HKMM">
                 </div>
-
-                <div class="col" style="display:flex">
+                <div class="div15">
                     <img src="images/ICMS_Logo.png" class="img-responsive logo" alt="ICMS">
+                </div>
+                <div class="div16">
                     <img src="images/RCGB_Logo.png" class="img-responsive logo" alt="RCGB">
                 </div>
-
-                <div class="col" style="display:flex">
+                <div class="div17">
                     <img src="images/CBEA_Logo.png" class="img-responsive logo" alt="CBEA">
-                </div> -->
+                </div>
+                <div class="div18">
+                    <img src="images/CMI_Logo.jpg" class="img-responsive logo" alt="CBEA">
+                </div>
             </div>
         </div>
     </div>
