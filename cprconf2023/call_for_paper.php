@@ -172,20 +172,20 @@
 			</p>
 			<p>
 				<a href="https://staff.uic.edu.cn/adolfng/en"
-				target="_blank">Dr. Adolf KY NG</a>
+				target="_blank">Prof. NG Adolf Koi Yu</a>
 				<br/>
 				<span>
-					Professor,</br> BNU-HKBU United International College
+					Associate Head and Professor,</br> BNU-HKBU United International College
 				</span>
 				<br>
 				<span><a href="mailto:adolfng@uic.edu.cn">adolfng@uic.edu.cn</a></span>
 			</p>
 			<p>
 				<a href="https://www.polyu.edu.hk/en/lms/people/academic-staff/t-l-yip/"
-				target="_blank">Ir Dr. Tsz Leung YIP</a>
+				target="_blank">Ir Dr. YIP Tsz Leung</a>
 				<br/>
 				<span>
-					Associate Professor,</br> Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University
+					Associate Dean of Students and Associate Professor,</br> Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University
 				</span>
 				<br>
 				<span><a href="mailto:t.l.yip@polyu.edu.hk">t.l.yip@polyu.edu.hk</a></span>
