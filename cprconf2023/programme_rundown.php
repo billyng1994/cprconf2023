@@ -95,22 +95,26 @@
 
                     <tr>
                         <td colspan="1" width="20%"><b>11:00 - 11:45</b></td>
-                        <td colspan="4" style="display: flex;justify-content: space-around;flex-wrap: wrap;">
-                            <div style="width: 25%;display: block;text-align:center;padding: 15px 8px;min-width: 180px;">
+                        <td colspan="5" style="display: flex;justify-content: space-around;flex-wrap: nowrap;">
+                            <div style="width: 20%;display: block;text-align:center;padding: 15px 8px;min-width: 130px;">
                                 <b>Feature Session 1</b>
                                 <div>CCAPPTIA: Research Project Highlights and Future Trends</div>
                             </div>
-                            <div style="width: 25%;display: block;text-align:center;padding: 15px 8px;min-width: 180px;">
+                            <div style="width: 20%;display: block;text-align:center;padding: 15px 8px;min-width: 130px;">
                                 <b>Feature Session 2</b>
                                 <div>CY Tung International Centre for Maritime Studies: Maritime Education and Training</div>
                             </div>
-                            <div style="width: 25%;display: block;text-align:center;padding: 15px 8px;min-width: 180px;">
+                            <div style="width: 20%;display: block;text-align:center;padding: 15px 8px;min-width: 130px;">
                                 <b>Feature Session 3</b>
                                 <div>The Hang Seng University of Hong Kong, Virtual Reality Centre: Innovative Teaching and Learning Pedagogies</div>
                             </div>
-                            <div style="width: 25%;display: block;text-align:center;padding: 15px 8px;min-width: 180px;"> 
+                            <div style="width: 20%;display: block;text-align:center;padding: 15px 8px;min-width: 130px;"> 
                                 <b>Feature Session 4</b>
                                 <div>PolyU SPEED, Research Centre for Green Energy, Transport and Building: The Application of Green Technology in E-commerce</div>
+                            </div>
+                            <div style="width: 20%;display: block;text-align:center;padding: 15px 8px;min-width: 130px;"> 
+                                <b>Feature Session 5</b>
+                                <div>PolyU SPEED, Research Centre for Green Business: Green Business and E-Commerce</div>
                             </div>
                         </td> 
                     </tr>
@@ -221,22 +225,26 @@
 
                     <tr>
                         <td colspan="1" width="20%"><b>10:45 -11:45</b></td>
-                        <td colspan="4" style="display: flex;justify-content: space-around;flex-wrap: wrap;">
-                            <div style="width: 25%;display: block;text-align:center;padding: 15px 8px;min-width: 180px;">
+                        <td colspan="4" style="display: flex;justify-content: space-around;flex-wrap: nowrap;">
+                            <div style="width: 20%;display: block;text-align:center;padding: 15px 8px;min-width: 150px;">
                                 <b>Research Methodology Workshop 1:</b>
-                                <div>Interdisciplinary Research</div>
+                                <div style="padding-top: 5px">Interdisciplinary Research</div>
                             </div>
-                            <div style="width: 25%;display: block;text-align:center;padding: 15px 8px;min-width: 180px;">
+                            <div style="width: 20%;display: block;text-align:center;padding: 15px 8px;min-width: 150px;">
                                 <b>Research Methodology Workshop 2:</b>
-                                <div>Systematic Reviews</div>
+                                <div style="padding-top: 5px">Systematic Reviews</div>
                             </div>
-                            <div style="width: 25%;display: block;text-align:center;padding: 15px 8px;min-width: 180px;">                                
+                            <div style="width: 20%;display: block;text-align:center;padding: 15px 8px;min-width: 150px;">                                
                                 <b>Research Methodology Workshop 3:</b>
-                                <div>Econometric Modelling: Techniques and Applications</div>
+                                <div style="padding-top: 5px">Econometric Modelling: Techniques and Applications</div>
                             </div>
-                            <div style="width: 25%;display: block;text-align:center;padding: 15px 8px;min-width: 180px;">  
+                            <div style="width: 20%;display: block;text-align:center;padding: 15px 8px;min-width: 150px;">  
                                 <b>Research Methodology Workshop 4:</b>
-                                <div>Qualitative Research</div>
+                                <div style="padding-top: 5px">Qualitative Research</div>
+                            </div>
+                            <div style="width: 20%;display: block;text-align:center;padding: 15px 8px;min-width: 150px;">  
+                                <b>Research Methodology Workshop 5:</b>
+                                <div style="padding-top: 5px">Multi-agent Behavior Model</div>  
                             </div>
                         </td> 
                     </tr>

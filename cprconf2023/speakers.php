@@ -60,21 +60,6 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/Wang_Peng.jpeg" style="width:100%">
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
-					<p>
-						<a href="#" target="_blank">Prof. WANG Peng</a> <br>
-						Professor, Jinan University
-					</p>
-					<blockquote class="speaker_topics">Future Development of Guangdong-Hong Kong-Macao Greater Bay Area</blockquote>
-				</div>
-			</div>
-
-			<div class="row speaker">
-				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
-					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
 						<img src="images/speakers/Sunny_Ho.jpeg" style="width:100%">
 					</div>
 				</div>
@@ -84,21 +69,6 @@
 						Executive Director, The Hong Kong Shippers' Council
 					</p>
 					<blockquote class="speaker_topics">Defining Hong Kong's Role with regards to Cross-border Ecommerce Business</blockquote>
-				</div>
-			</div>
-			
-			<div class="row speaker">
-				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
-					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/Tse_Hing_Ming.jpg" style="width:100%">
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
-					<p>
-						<a href="#" target="_blank">Mr. Tse Hing Min, Andy</a> <br>
-						LL.B., Partner, HK & GBA Lawyer - SUN LAWYERS
-					</p>
-					<blockquote class="speaker_topics">Contemporary Legal Issues in the Greater Bay Area E-Commerce</blockquote>
 				</div>
 			</div>
 
@@ -114,6 +84,36 @@
 						Executive Chairman, Hong Kong Cross-Border E-Commerce Association
 					</p>
 					<blockquote class="speaker_topics">How can we promote Hong Kong to become the Asian hub for green cross-border e-commerce in coordination with the Greater Bay Area?</blockquote>
+				</div>
+			</div>
+		
+			<div class="row speaker">
+				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
+					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
+						<img src="images/speakers/Tse_Hing_Ming.jpg" style="width:100%">
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
+					<p>
+						<a href="#" target="_blank">Mr. Tse Hing Min, Andy</a> <br>
+						LL.B., Partner, HK & GBA Lawyer - SUN LAWYERS
+					</p>
+					<blockquote class="speaker_topics">Contemporary Legal Issues in the Greater Bay Area E-Commerce</blockquote>
+				</div>
+			</div>
+					
+			<div class="row speaker">
+				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
+					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
+						<img src="images/speakers/JingJing_YANG.jpg" style="width:100%">
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
+					<p>
+						<a href="https://www.iftm.edu.mo/stm/en/people/faculty-members/index.html?name=jingjing" target="_blank">Dr. Yang Jingjing</a> <br>
+						Assistant Professor, Macao Institute for Tourism Studies
+					</p>
+					<blockquote class="speaker_topics">Cross-border consumption of tourism industry in GBA</blockquote>
 				</div>
 			</div>
 			<!-- Keynote Speakers - SECTION CONTENT - END -->
@@ -150,36 +150,6 @@
 						Senior Teaching Fellow - The Hong Kong Polytechnic University
 					</p>
 					<blockquote class="speaker_topics">The Adoption of Blockchain for Cross-Border E-commerce in the Greater Bay Area</blockquote>
-				</div>
-			</div>
-
-			<div class="row speaker">
-				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
-					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/HO_To_Sum.jpg" style="width:100%">
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
-					<p>
-						<a href="#" target="_blank">Dr. HO George To-sum</a> <br>
-						Associate Professor - The Hang Seng University of Hong Kong
-					</p>
-					<blockquote class="speaker_topics">Trends of Business Intelligence for Cross-Border E-commerce in the Greater Bay Area</blockquote>
-				</div>
-			</div>
-
-			<div class="row speaker">
-				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
-					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/Gavin_Chau.jpg" style="width:100%">
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
-					<p>
-						<a href="#" target="_blank">Prof. CHAU Gavin Ka-yin</a> <br>
-						Associate Dean and Professor - City University of Macau
-					</p>
-					<blockquote class="speaker_topics">Exploring Destination Branding for Guangdong-Hong Kong-Macao Greater Bay Area</blockquote>
 				</div>
 			</div>
 
@@ -267,7 +237,7 @@
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
 						<a href="#" target="_blank">Ms. SIO Sandy Hou-in</a> <br>
-						Vice President, Supervisory Council of the Macau Institute for Corporate Social Responsibility in Greater China
+						President, Administrative Council of the Macau Institute for Corporate Social Responsibility in Greater China
 					</p>
 					<blockquote class="speaker_topics">Sustainability and Diversification in Cross-border E-commerce for the Greater Bay Area</blockquote>
 				</div>
@@ -297,7 +267,7 @@
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
 						<a href="#" target="_blank">Ms. WONG Ling</a> <br>
-						Founder, 100degreec & President of Rotary Club of Smart Hong Kong
+						Founder, 100degreec
 					</p>
 					<blockquote class="speaker_topics">The Effectiveness of Omni channel for Cross-border E-commerce in the Greater Bay Area</blockquote>
 				</div>
@@ -312,24 +282,9 @@
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
 						<a href="#" target="_blank">Mr. HUNG Alex Man-ching (MH)</a> <br>
-						Managing Director of Crossover Green Sustainability for Better International. Co. Ltd. & Charter President of Rotary Club of Peninsula East
+						Managing Director of Crossover International Co. Ltd. & Charter President of Rotary Club of Peninsula East
 					</p>
 					<blockquote class="speaker_topics">Cross-border E-commerce in the Greater Bay Area</blockquote>
-				</div>
-			</div>
-
-			<div class="row speaker">
-				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
-					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/Tannie_Sze.jpeg" style="width:100%">
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
-					<p>
-						<a href="#" target="_blank">Ms. Tannie SZE</a> <br>
-						Executive Director of Winson Holdings Hong Kong Limited
-					</p>
-					<blockquote class="speaker_topics">Sustainability in the Greater Bay Area Ports and Supply Chain</blockquote>
 				</div>
 			</div>
 
@@ -357,7 +312,7 @@
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
 						<a href="#" target="_blank">Mr. YU Shing Chung, John</a> <br>
-						Professional Member of Hong Kong Sea Transport and Logistics Association (HKSTLA); Head of eCommerce - South China and Hong Kong at Crane Worldwide Logistics
+						Professional Member of Hong Kong Sea Transport and Logistics Association (HKSTLA); Head of Operations, Aramex Hong Kong Limited
 					</p>
 					<blockquote class="speaker_topics">Post COVID Market Dynamics in Cross-border E-commerce</blockquote>
 				</div>
@@ -375,6 +330,36 @@
 						Associate Professor, Macau University of Science and Technology
 					</p>
 					<blockquote class="speaker_topics">Information Technology of E-commerce in hospitality and tourism industry: development and trends</blockquote>
+				</div>
+			</div>
+
+			<div class="row speaker">
+				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
+					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
+						<img src="images/speakers/Ivy_Shum.jpg" style="width:100%">
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
+					<p>
+						<a href="https://hkavrar.com/" target="_blank">Ms. Ivy Shum</a> <br>
+						President of Hong Kong Association for VR AR
+					</p>
+					<blockquote class="speaker_topics"> Adoption of VR AR in E-commerce of Greater Bay Area</blockquote>
+				</div>
+			</div>
+
+			<div class="row speaker">
+				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
+					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
+						<img src="images/speakers/Jones_Ng.jpg" style="width:100%">
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
+					<p>
+						<a href="https://www.chiwa.hk/training-seminar/" target="_blank">Mr. Jones Ng</a> <br>
+						Director, Chiwa Digital Media Capital Group
+					</p>
+					<blockquote class="speaker_topics">The Promotional Strategies of Cross Border E-Commerce in the Greater Bay Area</blockquote>
 				</div>
 			</div>
 			<!-- Keynote Speakers - SECTION CONTENT - END -->

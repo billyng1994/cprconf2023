@@ -411,6 +411,17 @@
               China Maritime Institute
               </span>
             </td>
+            <td class="col-md-1 text-center">
+              <a 
+                href="https://hkavrar.com/"
+                target="_blank">
+                  <img src="images/HKAVRAR_Logo.png" alt="" srcset="" style="width: 70%; height:auto;">
+              </a>
+              <br/><br/>
+              <span>
+              Hong Kong Association for VR AR
+              </span>
+            </td>
           </tr>
         </tbody>
       </table>

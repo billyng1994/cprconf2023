@@ -17,9 +17,10 @@ b {
 .banner-grid {
   position: relative;
   display: grid;
+  grid-template-columns: repeat(9, 1fr);
   grid-template-areas: 
-  ". . . . . . . . ."
-  ". . . . . . . . .";
+  ". . . . . . . . . ."
+  ". . . . . . . . . .";
   grid-gap: 5px;
   justify-content: space-evenly;
   align-items: center;
