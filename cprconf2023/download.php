@@ -63,6 +63,13 @@
         <a href="images/posters/conf_banner.jpg" target="_blank" download><img src="images/posters/conf_banner.jpg" style="width:100%" /></a>
       </div>
       <a href="images/posters/conf_banner.jpg" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
+      <br />
+      <br />
+      <hr/>
+      <h3 style="border-left: solid 5px green;padding-left: 10px;">Booklet</h3>
+      <a href="downloads/conf_booklet.pdf" target="_blank" download><img style="width:30%;max-width:200px" src="images/book-icon.jpg" alt="pdffile" /></a>
+      <br>
+      <a href="downloads/conf_booklet.pdf" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
     </div> <!-- /container -->
   </div>
   <?php include "components/footer.php" ?>
