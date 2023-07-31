@@ -59,10 +59,10 @@
       <h3 style="border-left: solid 5px green;padding-left: 10px;">Conference Poster</h3>
       <br />
       <div class="thumbnail_b text-center" style="max-width:320px;margin-bottom:5%">
-        <a id="banner-reg-btn" href="images/posters/conf_banner.jpg" target="_blank" download>Download</a>
-        <a href="images/posters/conf_banner.jpg" target="_blank" download><img src="images/posters/conf_banner.jpg" style="width:100%" /></a>
+        <a id="banner-reg-btn" href="images/posters/conf_poster.png" target="_blank" download>Download</a>
+        <a href="images/posters/conf_poster.png" target="_blank" download><img src="images/posters/conf_poster.png" style="width:100%" /></a>
       </div>
-      <a href="images/posters/conf_banner.jpg" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
+      <a href="images/posters/conf_poster.png" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
       <br />
       <br />
       <hr/>
