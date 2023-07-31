@@ -141,9 +141,10 @@
 
 			<hr>
             <img src="images/Maritime_Business_Review.jpg" style="width:70%" />
-            <h2 style="color: #111177;">Maritime Business Review </h2>
+            <h2 style="color: #111177;">Maritime Business Review </h2>		
             
-			<span>Special issue: Call for Papers: Digital Transformation of Maritime Business</span>
+			<span>Special issue: Call for Papers: Digital Transformation of Maritime Business</span><br>
+			<span><i><a href="https://www.emeraldgrouppublishing.com/calls-for-papers/call-papers-digital-transformation-maritime-business" target="_blank">Click here</a>&nbsp;to checkout this special issue</i></span>
 			<br/><br/>
             <p style="text-align: justify;color: #000000;">The conventional obstacles to international trade have been lowered as a result of the growth of digitalization during the past two decades. As internet access continues to climb globally and a developing global middle class with discretionary means and a desire for imported goods emerges, soaring demand has been met by increasingly interconnected supply chains and the advent of Digital Transformation of Maritime Business.</p>
 
