@@ -166,7 +166,7 @@
                         <td colspan="1" class="firstcol"><b>1</b></td>
                         <td colspan="3" >
                             <b><u>Prof. NG Adolf Koi Yu</u></b><br>
-                            <b>Associate Head and Professor</b>
+                            <b>Acting Dean and Professor</b>
                         </td>
                         <td colspan="4">
                             <b><u>CCAPPTIA</u></b><br>
@@ -727,7 +727,7 @@
                         <td colspan="1" class="firstcol"><b>2</b></td>
                         <td colspan="3" >
                             <b><u>Prof. NG Adolf Koi Yu</u></b><br>
-                            <b>Associate Head and Professor</b>
+                            <b>Acting Dean and Professor</b>
                         </td>
                         <td colspan="4" >                            
                             <b>Systematic Review</b>

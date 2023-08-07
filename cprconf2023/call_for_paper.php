@@ -174,7 +174,7 @@
 				target="_blank">Adolf KY NG</a>
 				<br/>
 				<span>
-					Professor,</br> Faculty of Business and Management, BNU-HKBU United International College
+					Acting Dean and Professor,</br>Faculty of Business and Management, BNU-HKBU United International College 
 				</span>
 				<br>
 				<span><a href="mailto:adolfng@uic.edu.cn">adolfng@uic.edu.cn</a></span>
