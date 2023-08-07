@@ -150,7 +150,7 @@
                   target="_blank">Prof. NG Adolf Koi Yu</a>
                   <br/>
                   <span>
-                    Associate Head and Professor,</br> Division of Business and Management, Beijing Normal University - Hong Kong Baptist University United International College
+                    Acting Dean and Professor,</br> Faculty of Business and Management, BNU-HKBU United International College
                   </span>
               </p>
             </td>

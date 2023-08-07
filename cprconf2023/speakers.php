@@ -281,7 +281,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Mr. HUNG Alex Man-ching (MH)</a> <br>
+						<a href="#" target="_blank">Mr. Alex HUNG, MH</a> <br>
 						Managing Director of Crossover International Co. Ltd. & Charter President of Rotary Club of Peninsula East
 					</p>
 					<blockquote class="speaker_topics">Cross-border E-commerce in the Greater Bay Area</blockquote>
