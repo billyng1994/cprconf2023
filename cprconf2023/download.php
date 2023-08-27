@@ -71,10 +71,46 @@
       <br>
       <a href="downloads/conf_booklet.pdf" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
       <hr/>
-      <h3 style="border-left: solid 5px green;padding-left: 10px;">Video hightlight</h3>
+      <h3 style="border-left: solid 5px green;padding-left: 10px;">Videos</h3>
+      <h4>Conference hightlight</h4>
       <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/AA1xYxE3fkQ" title="Conference 2023 highlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
-      <a href="videos/video_highlight.mp4" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
+      <br>
+      <h4>11 Aug Morning Session</h4>
+      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/AaHrORcE1b0" title="11 Aug Morning 8:57 AM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <br>
+      <br>
+      <h4>11 Aug Paper Session 1</h4>
+      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/iCotfsHOeDI" title="11 Aug Afternoon 2 1213PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <br>
+      <br>
+      <h4>11 Aug Paper Session 2</h4>
+      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/9_PUHjy-BEg" title="11 Aug Afternoon 2  16:52 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <br>
+      <br>
+      <h4>11 Aug Industrial Session</h4>
+      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/AX_VkErACMk" title="11 Aug Afternoon 3 1:12 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <br>
+      <br>
+      <h4>12 Aug Morning Session</h4>
+      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/rcMEKM5Xb2E" title="12 Aug Morning 8:40 AM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <br>
+      <br>
+      <h4>12 Aug Paper Session 1</h4>
+      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/jsYKgGlNc3g" title="12 Aug Afternoon 1 1:27 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <br>
+      <br>
+      <h4>12 Aug Paper Session 2</h4>
+      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/JK5u2VQR6cM" title="12 Aug Afternoon 2 13:28PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <br>
+      <br>
+      <h4>12 Aug Industrial Session</h4>
+      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/VsMWZgV6Bvk" title="12 Aug Afternoon 3 1:28 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <br>
+      <br>
+      
+      
+      
     </div> <!-- /container -->
   </div>
   <?php include "components/footer.php" ?>
