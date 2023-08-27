@@ -70,6 +70,11 @@
       <a href="downloads/conf_booklet.pdf" target="_blank" download><img style="width:30%;max-width:200px" src="images/book-icon.jpg" alt="pdffile" /></a>
       <br>
       <a href="downloads/conf_booklet.pdf" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
+      <hr/>
+      <h3 style="border-left: solid 5px green;padding-left: 10px;">Video hightlight</h3>
+      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/AA1xYxE3fkQ" title="Conference 2023 highlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <br>
+      <a href="videos/video_highlight.mp4" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
     </div> <!-- /container -->
   </div>
   <?php include "components/footer.php" ?>
