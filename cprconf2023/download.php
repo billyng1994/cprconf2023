@@ -25,7 +25,38 @@
   <link href="css/navbar-fixed-top.css" rel="stylesheet">
   <!-- Overriding css that is literally copy pasted for the entire site -->
   <link href="css/main-override.css" rel="stylesheet">
+  <link href="css/swiper-bundle.min.css" rel="stylesheet">
   <script src="js/ie-emulation-modes-warning.js"></script>
+  <script src="js/swiper-bundle.min.js"></script>
+
+  <style>
+    img {
+      pointer-events: none;
+    }
+    .swiper-slide {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .swiper-slide img {
+      display: block;
+      width: 75%;
+      height: auto;
+      object-fit: cover;
+    }
+
+    .swiper-button-prev, .swiper-button-next {
+      color: rgb(14, 135, 31); 
+    }
+    .swiper-pagination-bullet-active {
+      background: rgb(14, 135, 31);
+    }
+
+    .video-player {
+      width: 100%;
+      height: 40vh;      
+    }
+  </style>
 </head>
 
 <body class="fontfamily">
@@ -56,6 +87,7 @@
       <br />
       <br />
       <hr/>
+      <!-- Conf Posters -->
       <h3 style="border-left: solid 5px green;padding-left: 10px;">Conference Poster</h3>
       <br />
       <div class="thumbnail_b text-center" style="max-width:320px;margin-bottom:5%">
@@ -66,51 +98,141 @@
       <br />
       <br />
       <hr/>
+      <!-- Conf Booklets -->
       <h3 style="border-left: solid 5px green;padding-left: 10px;">Booklet</h3>
       <a href="downloads/conf_booklet.pdf" target="_blank" download><img style="width:30%;max-width:200px" src="images/book-icon.jpg" alt="pdffile" /></a>
       <br>
       <a href="downloads/conf_booklet.pdf" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
       <hr/>
-      <h3 style="border-left: solid 5px green;padding-left: 10px;">Videos</h3>
+      <!-- Conf Photo Gallery -->
+      <h3 style="border-left: solid 5px green;padding-left: 10px;">Conferece Photos</h3>
+      <!-- Day 1 -->
+      <h4>Day 1 - 2023/07/11 <span><i>(<a href="https://rb.gy/97k4q" target="_blank">Click here</a> to access all photos of day 1)</i></span></h4>
+      <div class="swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide"><img src="images/activity_photos/day1/DSC_9108.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day1/DSC_9124.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day1/DSC_9128.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day1/DSC_9145.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day1/DSC_9334.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day1/DSC_9347.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day1/DSC_9444.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day1/IMG-20230814-WA0001.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day1/IMG_2394.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day1/IMG_2478.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day1/IMG_2497.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day1/IMG_2511.jpg"></div>
+        </div>
+        <!-- slider navigation buttons -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+        <!-- slider pagination -->
+        <div class="swiper-pagination"></div>
+      </div>
+      <br />
+      <!-- Day 2 -->
+      <h4>Day 2 - 2023/07/12 <span><i>(<a href="https://rb.gy/s2n2e" target="_blank">Click here</a> to access all photos of day 2)</i></span></h4>
+      <div class="swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide"><img src="images/activity_photos/day2/DSC_0008.jpeg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day2/DSC_0014.jpeg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day2/DSC_9524.jpeg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day2/DSC_9527.jpeg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day2/DSC_9608.jpeg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day2/DSC_9686.jpeg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day2/DSC_9687.jpeg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day2/DSC_9716.jpeg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day2/DSC_9772.jpeg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day2/DSC_9788.jpeg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day2/DSC_9975.jpeg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day2/DSC_9978.jpeg"></div>
+        </div>
+        <!-- slider navigation buttons -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+        <!-- slider pagination -->
+        <div class="swiper-pagination"></div>
+      </div>
+      <br />
+      <!-- Day 3 -->
+      <h4>Day 3 - 2023/07/13 <span><i>(<a href="https://rb.gy/u125o" target="_blank">Click here</a> to access all photos of day 3)</i></span></h4>
+      <div class="swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide"><img src="images/activity_photos/day3/IMG-20230813-WA0006.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day3/IMG-20230813-WA0009.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day3/IMG-20230813-WA0013.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day3/IMG-20230813-WA0021.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day3/IMG-20230813-WA0025.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day3/IMG-20230813-WA0027.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day3/IMG-20230813-WA0028.jpg"></div>
+          <div class="swiper-slide"><img src="images/activity_photos/day3/IMG-20230813-WA0029.jpg"></div>
+        </div>
+        <!-- slider navigation buttons -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+        <!-- slider pagination -->
+        <div class="swiper-pagination"></div>
+      </div>
+      <hr/>
+
+      <!-- Conf Videos -->
+      <h3 style="border-left: solid 5px green;padding-left: 10px;">Conferece Videos</h3>
+
       <h4>Conference hightlight</h4>
       <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/AA1xYxE3fkQ" title="Conference 2023 highlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      <br>
-      <br>
-      <h4>11 Aug Morning Session</h4>
-      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/AaHrORcE1b0" title="11 Aug Morning 8:57 AM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      <br>
-      <br>
-      <h4>11 Aug Paper Session 1</h4>
-      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/iCotfsHOeDI" title="11 Aug Afternoon 2 1213PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      <br>
-      <br>
-      <h4>11 Aug Paper Session 2</h4>
-      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/9_PUHjy-BEg" title="11 Aug Afternoon 2  16:52 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      <br>
-      <br>
-      <h4>11 Aug Industrial Session</h4>
-      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/AX_VkErACMk" title="11 Aug Afternoon 3 1:12 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      <br>
-      <br>
-      <h4>12 Aug Morning Session</h4>
-      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/rcMEKM5Xb2E" title="12 Aug Morning 8:40 AM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      <br>
-      <br>
-      <h4>12 Aug Paper Session 1</h4>
-      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/jsYKgGlNc3g" title="12 Aug Afternoon 1 1:27 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      <br>
-      <br>
-      <h4>12 Aug Paper Session 2</h4>
-      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/JK5u2VQR6cM" title="12 Aug Afternoon 2 13:28PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      <br>
-      <br>
-      <h4>12 Aug Industrial Session</h4>
-      <iframe style="width:100%;height:60vmin" src="https://www.youtube.com/embed/VsMWZgV6Bvk" title="12 Aug Afternoon 3 1:28 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      <br>
-      <br>
-      
-      
-      
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h4>11 Aug Morning Session</h4>
+            <iframe class="video-player" src="https://www.youtube.com/embed/AaHrORcE1b0" title="11 Aug Morning 8:57 AM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+          <div class="col-md-6">
+            <h4>11 Aug Paper Session 1</h4>
+            <iframe class="video-player" src="https://www.youtube.com/embed/iCotfsHOeDI" title="11 Aug Afternoon 2 1213PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h4>11 Aug Paper Session 2</h4>
+            <iframe class="video-player" src="https://www.youtube.com/embed/9_PUHjy-BEg" title="11 Aug Afternoon 2  16:52 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+          <div class="col-md-6">
+            <h4>11 Aug Industrial Session</h4>
+            <iframe class="video-player" src="https://www.youtube.com/embed/AX_VkErACMk" title="11 Aug Afternoon 3 1:12 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h4>12 Aug Morning Session</h4>
+            <iframe class="video-player" src="https://www.youtube.com/embed/rcMEKM5Xb2E" title="12 Aug Morning 8:40 AM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+          <div class="col-md-6">
+            <h4>12 Aug Paper Session 1</h4>
+            <iframe class="video-player" src="https://www.youtube.com/embed/jsYKgGlNc3g" title="12 Aug Afternoon 1 1:27 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h4>12 Aug Paper Session 2</h4>
+            <iframe class="video-player" src="https://www.youtube.com/embed/JK5u2VQR6cM" title="12 Aug Afternoon 2 13:28PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+          <div class="col-md-6">
+            <h4>12 Aug Industrial Session</h4>
+            <iframe class="video-player" src="https://www.youtube.com/embed/VsMWZgV6Bvk" title="12 Aug Afternoon 3 1:28 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+
     </div> <!-- /container -->
   </div>
   <?php include "components/footer.php" ?>
@@ -119,6 +241,27 @@
   ================================================== -->
   <!-- Placed at the end of the document so the pages load faster -->
   <?php include "components/fixedButton_n_scripts.php" ?>
+
+  <script>
+    const swiper = new Swiper('.swiper', {
+      // Optional parameters
+      direction: 'horizontal',
+      loop: true,
+      
+      // If we need pagination
+      pagination: {
+        el: '.swiper-pagination',
+        dynamicBullets: true,
+      },
+
+      // Navigation arrows
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+
+    });
+  </script>
 </body>
 
 </html>
