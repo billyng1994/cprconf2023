@@ -72,15 +72,15 @@
         <div class="row">
           <div class="col-12 col-lg-6">
             <h4>Abstract Template for Submission</h4>
-            <a href="downloads/Abstract_Template_for_Submission.docx" target="_blank" download><img style="width:30%;margin:2% 10% 5% 0;max-width:200px" src="images/wordfileicon.png" alt="wordfile" /></a>
+            <a href="downloads/Abstract_Template_for_Submission.docx" target="_blank" download style="display: block; width: fit-content;"><img style="width:60%;margin:2% 10% 5% 0;max-width:200px" src="images/wordfileicon.png" alt="wordfile" /></a>
             <br>
-            <a href="downloads/Abstract_Template_for_Submission.docx" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
+            <a href="downloads/Abstract_Template_for_Submission.docx" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
           </div>
           <div class="col-12 col-lg-6">
             <h4>Ful Paper template for submissions</h4>
-            <a href="downloads/Full_Paper_template_for_submissions.docx" target="_blank" download><img style="width:30%;margin:2% 10% 5% 0;max-width:200px" src="images/wordfileicon.png" alt="wordfile" /></a>
+            <a href="downloads/Full_Paper_template_for_submissions.docx" target="_blank" download style="display: block; width: fit-content;"><img style="width:60%;margin:2% 10% 5% 0;max-width:200px" src="images/wordfileicon.png" alt="wordfile" /></a>
             <br>
-            <a href="downloads/Full_Paper_template_for_submissions.docx" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
+            <a href="downloads/Full_Paper_template_for_submissions.docx" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
           </div>
         </div>
       </div>
@@ -94,15 +94,22 @@
         <a id="banner-reg-btn" href="images/posters/conf_poster.png" target="_blank" download>Download</a>
         <a href="images/posters/conf_poster.png" target="_blank" download><img src="images/posters/conf_poster.png" style="width:100%" /></a>
       </div>
-      <a href="images/posters/conf_poster.png" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
+      <a href="images/posters/conf_poster.png" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
       <br />
       <br />
       <hr/>
       <!-- Conf Booklets -->
       <h3 style="border-left: solid 5px green;padding-left: 10px;">Booklet</h3>
-      <a href="downloads/conf_booklet.pdf" target="_blank" download><img style="width:30%;max-width:200px" src="images/book-icon.jpg" alt="pdffile" /></a>
+      <a href="downloads/conf_booklet.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px" src="images/book-icon.jpg" alt="pdffile" /></a>
       <br>
-      <a href="downloads/conf_booklet.pdf" target="_blank" download><img style="width:40%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
+      <a href="downloads/conf_booklet.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
+      <hr/>
+      <!-- Conf Proceedings -->
+      <h3 style="border-left: solid 5px green;padding-left: 10px;">Conference Proceedings</h3>
+      <a href="downloads/Conference_Proceedings.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px" src="images/book-icon.jpg" alt="pdffile" /></a>
+      <br>
+      <a href="downloads/Conference_Proceedings.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
+
       <hr/>
       <!-- Conf Photo Gallery -->
       <h3 style="border-left: solid 5px green;padding-left: 10px;">Conferece Photos</h3>
