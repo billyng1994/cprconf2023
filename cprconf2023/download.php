@@ -114,7 +114,7 @@
       <!-- Conf Photo Gallery -->
       <h3 style="border-left: solid 5px green;padding-left: 10px;">Conferece Photos</h3>
       <!-- Day 1 -->
-      <h4>Day 1 - 2023/07/11 <span><i>(<a href="https://rb.gy/97k4q" target="_blank">Click here</a> to access all photos of day 1)</i></span></h4>
+      <h4>Day 1 - 2023/07/11 <span><i>(<a href="https://connectpolyu-my.sharepoint.com/:f:/g/personal/a21068529s_connect_polyu_hk/Eu3Iz_lLwQ1NrhBndWWUeO8BGztiF4UJOxdJ_gndvXWmLQ?e=OQtAsD" target="_blank">Click here</a> to access all photos of day 1)</i></span></h4>
       <div class="swiper">
         <div class="swiper-wrapper">
           <div class="swiper-slide"><img src="images/activity_photos/day1/DSC_9108.jpg"></div>
@@ -138,7 +138,7 @@
       </div>
       <br />
       <!-- Day 2 -->
-      <h4>Day 2 - 2023/07/12 <span><i>(<a href="https://rb.gy/s2n2e" target="_blank">Click here</a> to access all photos of day 2)</i></span></h4>
+      <h4>Day 2 - 2023/07/12 <span><i>(<a href="https://connectpolyu-my.sharepoint.com/:f:/g/personal/a21068529s_connect_polyu_hk/EkCHkol-OrZKjxHLoKXfdwkB4mmQGzSJxGqXupT8YaQEoA?e=ovIgMP" target="_blank">Click here</a> to access all photos of day 2)</i></span></h4>
       <div class="swiper">
         <div class="swiper-wrapper">
           <div class="swiper-slide"><img src="images/activity_photos/day2/DSC_0008.jpeg"></div>
@@ -162,7 +162,7 @@
       </div>
       <br />
       <!-- Day 3 -->
-      <h4>Day 3 - 2023/07/13 <span><i>(<a href="https://rb.gy/u125o" target="_blank">Click here</a> to access all photos of day 3)</i></span></h4>
+      <h4>Day 3 - 2023/07/13 <span><i>(<a href="https://connectpolyu-my.sharepoint.com/:f:/g/personal/a21068529s_connect_polyu_hk/EiGYzMaRrKxBvjq3rtV_grABXVWLb83mYe45qyMg1RUXuQ?e=KQisVx" target="_blank">Click here</a> to access all photos of day 3)</i></span></h4>
       <div class="swiper">
         <div class="swiper-wrapper">
           <div class="swiper-slide"><img src="images/activity_photos/day3/IMG-20230813-WA0006.jpg"></div>
