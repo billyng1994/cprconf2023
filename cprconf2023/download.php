@@ -109,7 +109,12 @@
       <a href="downloads/Conference_Proceedings.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px" src="images/book-icon.jpg" alt="pdffile" /></a>
       <br>
       <a href="downloads/Conference_Proceedings.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
-
+      <hr/>
+      <!-- Summary Conference Report -->
+      <h3 style="border-left: solid 5px green;padding-left: 10px;">Summary Conference Report</h3>
+      <a href="downloads/Summary_Conference_Report.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px" src="images/book-icon.jpg" alt="pdffile" /></a>
+      <br>
+      <a href="downloads/Summary_Conference_Report.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
       <hr/>
       <!-- Conf Photo Gallery -->
       <h3 style="border-left: solid 5px green;padding-left: 10px;">Conferece Photos</h3>
