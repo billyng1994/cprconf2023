@@ -240,7 +240,7 @@
           </div>
           <div class="col-md-6">
             <h4>12 Aug Industrial Session</h4>
-            <iframe class="video-player" src="https://www.youtube.com/embed/VsMWZgV6Bvk" title="12 Aug Afternoon 3 1:28 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe class="video-player" src="https://www.youtube.com/embed/Id_s_z8umkM" title="12 Aug Afternoon 3 1:28 PM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
         </div>
       </div>
