@@ -116,6 +116,34 @@
       <br>
       <a href="downloads/Summary_Conference_Report.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
       <hr/>
+      <!-- Guidebook -->
+      <h3 style="border-left: solid 5px green;padding-left: 10px;">Guidebook</h3>
+      <br />
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-6">
+            <h4>English</h4>
+            <a href="downloads/Guidebook_Eng.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px" src="images/book-icon.jpg" alt="pdffile" /></a>
+            <br>
+            <a href="downloads/Guidebook_Eng.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
+          </div>
+          <div class="col-12 col-lg-6">
+            <h4>Traditional Chinese</h4>
+            <a href="downloads/Guidebook_Trad_Chi.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px" src="images/book-icon.jpg" alt="pdffile" /></a>
+            <br>
+            <a href="downloads/Guidebook_Trad_Chi.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
+          </div>
+          <div class="col-12 col-lg-6">
+            <h4>Simplified Chinese</h4>
+            <a href="downloads/Guidebook_Sim_Chi.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px" src="images/book-icon.jpg" alt="pdffile" /></a>
+            <br>
+            <a href="downloads/Guidebook_Sim_Chi.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
+          </div>
+        </div>
+      </div>
+      <br />
+      <br />
+      <hr/>
       <!-- Conf Photo Gallery -->
       <h3 style="border-left: solid 5px green;padding-left: 10px;">Conferece Photos</h3>
       <!-- Day 1 -->
